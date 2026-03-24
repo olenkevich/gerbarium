@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the Arms — Gerbarium</title>
+  <meta name="description" content="Guess the coat of arms — a quiz game with 1,277 emblems.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="game-page">
+
+<header class="nav">
+  <div class="nav-top">
+    <a href="/" class="nav-back-btn">
+      <svg width="7" height="12" viewBox="0 0 7 12" fill="none">
+        <path d="M6 1L1 6L6 11" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      Gerbarium
+    </a>
+    <div class="nav-game-title">Guess the Arms</div>
+    <div class="game-nav-score">
+      <span class="game-nav-streak" id="streak-wrap" hidden>
+        <span class="streak-fire">🔥</span><span id="stat-streak">0</span>
+      </span>
+      <span class="game-nav-fraction"><span id="stat-correct">0</span><span class="fraction-sep">/</span><span id="stat-total">0</span></span>
+    </div>
+  </div>
+</header>
+
+<div class="game-wrap">
+  <div class="game-card" id="game-card">
+
+    <div class="game-img-area">
+      <div class="game-img-shimmer" id="game-shimmer"></div>
+      <img id="game-img" src="" alt="Coat of arms">
+    </div>
+
+    <div class="game-body">
+      <div class="game-eyebrow">Which place does this coat of arms belong to?</div>
+      <div class="game-opts" id="game-opts">
+        <div class="game-opt-skeleton"></div>
+        <div class="game-opt-skeleton"></div>
+        <div class="game-opt-skeleton"></div>
+      </div>
+      <div class="game-hint" id="game-hint"></div>
+    </div>
+
+  </div>
+
+  <div class="game-stats" id="game-stats">
+    <div class="game-stat">
+      <div class="game-stat-value" id="display-pct">—</div>
+      <div class="game-stat-label">Accuracy</div>
+    </div>
+    <div class="game-stat-sep"></div>
+    <div class="game-stat">
+      <div class="game-stat-value" id="display-streak">0</div>
+      <div class="game-stat-label">Best streak</div>
+    </div>
+    <div class="game-stat-sep"></div>
+    <div class="game-stat">
+      <div class="game-stat-value" id="display-played">0</div>
+      <div class="game-stat-label">Played</div>
+    </div>
+  </div>
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="480"
+   height="600"
+   id="svg2">
+  <defs
+     id="defs5" />
+  <g
+     id="g2720"
+     style="display:inline">
+    <path
+       d="M 480,442.90625 L 0.125,442.90625 L 0.125,505.65625 C 0.92301004,537.92818 15.92656,555.5741 45.0625,558.8125 L 197.8125,558.8125 C 207.7909,559.4823 216.55675,563.5047 224.40625,570.875 C 231.98945,578.02158 237.33035,587.7162 240.65625,600 C 243.71626,587.828 249.0337,578.01295 256.75,570.53125 C 264.2006,563.38474 272.98265,559.4823 283.09375,558.8125 L 435.71875,558.8125 C 463.93015,558.8125 479.7342,541.81753 480,506.625 L 480,442.90625 z"
+       id="path2553"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:43.5724144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 0,126 L 0,276.09375 L 0.125,276.09375 L 0.125,442.90625 L 480,442.90625 L 480,276.0625 L 479.875,276.0625 L 479.875,126 L 0,126 z"
+       id="path2558"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:43.5724144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 0,126 L 479.875,126 L 479.875,0 L 0,0 L 0,126 z"
+       id="rect2396"
+       style="fill:#08bdff;fill-opacity:1;stroke:none;stroke-width:43.5724144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <polygon
+       points="1015.08,1436.32 996.025,1416.91 996.025,1455.72 956.867,1455.72 976.27,1475.12 956.867,1494.53 996.025,1494.53 996.025,1533.33 1015.08,1513.93 1034.48,1533.33 1034.48,1494.53 1073.28,1494.53 1054.23,1475.12 1073.28,1455.72 1034.48,1455.72 1034.48,1416.91 1015.08,1436.32 "
+       transform="matrix(0.7495815,0,0,0.7495808,-520.88032,-824.84724)"
+       id="polygon2709"
+       style="fill:#da251d;fill-rule:nonzero;display:inline" />
+    <path
+       d="M 146.625,151.5625 L 151.84375,171 L 238.875,171 L 317.71875,307.5625 L 343.1875,260.8125 L 314.84375,260.8125 L 252.09375,152.09375 L 146.625,151.5625 z M 155.1875,183.53125 L 160.09375,201.78125 L 220.625,201.78125 L 231.28125,183.53125 L 155.1875,183.53125 z M 163.4375,214.28125 L 168.3125,232.5 L 180.875,232.5 L 113.09375,346.5 L 162.34375,436.21875 L 178.125,421.8125 L 136.625,345.46875 L 213.3125,214.28125 L 163.4375,214.28125 z M 352.34375,260.8125 L 322.4375,315.71875 L 333.4375,334.8125 L 373.75,260.8125 L 352.34375,260.8125 z M 382.90625,260.8125 L 338.96875,341.46875 L 181.03125,340.78125 L 210.65625,392.1875 L 226,378.1875 L 217.53125,363.53125 L 348.46875,363.53125 L 404.40625,260.8125 L 382.90625,260.8125 z M 145.15625,340.625 L 187.21875,413.53125 L 201.59375,400.4375 L 167.15625,340.71875 L 145.15625,340.625 z"
+       id="path2560"
+       style="opacity:1;fill:#08bdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:43.5724144;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <polygon
+       points="1015.08,1436.32 996.025,1416.91 996.025,1455.72 956.867,1455.72 976.27,1475.12 956.867,1494.53 996.025,1494.53 996.025,1533.33 1015.08,1513.93 1034.48,1533.33 1034.48,1494.53 1073.28,1494.53 1054.23,1475.12 1073.28,1455.72 1034.48,1455.72 1034.48,1416.91 1015.08,1436.32 "
+       transform="matrix(0.5502744,0,0,0.5502739,-318.56896,-740.39341)"
+       id="polygon2714"
+       style="fill:#ffffff;fill-rule:nonzero;display:inline" />
+    <polygon
+       points="1015.08,1436.32 996.025,1416.91 996.025,1455.72 956.867,1455.72 976.27,1475.12 956.867,1494.53 996.025,1494.53 996.025,1533.33 1015.08,1513.93 1034.48,1533.33 1034.48,1494.53 1073.28,1494.53 1054.23,1475.12 1073.28,1455.72 1034.48,1455.72 1034.48,1416.91 1015.08,1436.32 "
+       transform="matrix(0.5502744,0,0,0.5502739,-318.56896,-302.31808)"
+       id="polygon2716"
+       style="fill:#ffffff;fill-rule:nonzero;display:inline" />
+  </g>
+</svg>

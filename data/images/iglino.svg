@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Original created by User:Zirguezi(http://commons.wikimedia.org/wiki/User:Zirguezi) for use on Wikimedia projects. -->
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 174 219" style="enable-background:new 0 0 174 219;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#009247;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#0B7CC1;}
+	.st2{fill:#F6C315;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#F6C315;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st5{fill:#0B7CC1;stroke:#0B7CC1;stroke-width:1.89;stroke-miterlimit:10;}
+	.st6{fill:#DA2827;stroke:#F6C315;stroke-width:1.89;stroke-miterlimit:10;}
+	.st7{fill:#DA2827;stroke:#E3B324;stroke-miterlimit:10;}
+	.st8{fill:#0B7CC1;stroke:#E3B324;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#0B7CC1;stroke-width:1.89;stroke-miterlimit:10;}
+</style>
+<g id="Shield">
+	<path id="Green_Background" class="st0" d="M1.444,141.859v42.162c0,6.6,4.868,12,10.818,12h45.55l-2.35,0.007
+		c0.175-0.002,0.35-0.004,0.526-0.004c13.861,0,25.663,7.548,30.103,18.105l0.238,0H86.07V219l-0.082-5.323l0.232,0
+		c4.329-10.295,15.836-17.656,29.351-17.656c0.171,0,0.342,0.001,0.513,0.004l2.135-0.004h-0.063h42.501c6.6,0,12-5.4,12-12v-42.162
+		v6.687V1.071H1.444v147.475"/>
+	<rect id="Blue_Background" x="1.906" y="1.547" class="st1" width="170.25" height="145.62"/>
+	<rect id="Yellow_Background" x="1.906" y="147.167" class="st2" width="170.234" height="16"/>
+	<path id="Shield_Outline" class="st3" d="M1.444,141.859v42.162c0,6.6,4.868,12,10.818,12h45.55l-2.35,0.007
+		c0.175-0.002,0.35-0.004,0.526-0.004c13.861,0,25.663,7.548,30.103,18.105l0.238,0H86.07V219l-0.082-5.323l0.232,0
+		c4.329-10.295,15.836-17.656,29.351-17.656c0.171,0,0.342,0.001,0.513,0.004l2.135-0.004h-0.063h42.501c6.6,0,12-5.4,12-12v-42.162
+		v6.687V1.071H1.444v147.475"/>
+</g>
+<g id="Element_1_">
+	<g id="Element">
+		
+			<rect id="Yellow_Filler" x="75.22" y="52.396" transform="matrix(-0.7029 0.7112 -0.7112 -0.7029 188.3916 61.6436)" class="st2" width="12.205" height="35.536"/>
+		
+			<rect id="Yellow_Filler_1_" x="90.432" y="52.396" transform="matrix(0.7029 0.7112 -0.7112 0.7029 78.5805 -47.8176)" class="st2" width="12.205" height="35.536"/>
+		<rect id="Yellow_Filler_2_" x="79.5" y="69.125" class="st2" width="17.875" height="58.542"/>
+		<polyline id="Right_element" class="st4" points="88.688,138.104 87.631,137 54,103 78.375,79.125 70.5,71.25 62.625,79.125 
+			53.375,70 71.875,51.5 87.966,68.125 88.351,68.602 86.538,66.649 		"/>
+		<polyline id="Left_element" class="st4" points="87.894,68.847 88.688,68.125 104.779,51.5 123.279,70 114.029,79.125 
+			106.154,71.25 98.279,79.125 122.654,103 89.023,137 88.4,137.659 		"/>
+	</g>
+	<g id="Core_element">
+		
+			<rect id="Outer" x="79.013" y="94.582" transform="matrix(-0.7145 0.6996 -0.6996 -0.7145 223.6016 115.8779)" class="st5" width="18.29" height="17.957"/>
+		
+			<rect id="Inner" x="80.763" y="96.037" transform="matrix(-0.7145 0.6996 -0.6996 -0.7145 223.7287 115.3792)" class="st6" width="15.121" height="14.601"/>
+	</g>
+	<g id="Upper_element">
+		<polygon id="Upper_element_1" class="st7" points="52.375,26.75 87.966,63.375 123.558,26.75 		"/>
+		<polygon id="Upper_element_2" class="st8" points="72.511,26.75 87.631,43.25 102.75,26.75 		"/>
+		<polygon id="Upper_element_3" class="st7" points="77.011,27.25 87.631,39.299 98.25,27.25 		"/>
+		<polygon id="Upper_element_4" class="st9" points="72.511,24.5 87.631,41 102.75,24.5 		"/>
+	</g>
+</g>
+</svg>

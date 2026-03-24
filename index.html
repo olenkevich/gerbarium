@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerbarium — Coats of Arms of Russia</title>
+  <meta name="description" content="A catalog of 1 277 coats of arms of municipalities, regions, and districts worldwide.">
+  <meta property="og:title" content="Gerbarium">
+  <meta property="og:description" content="A catalog of coats of arms of Russian municipalities and districts.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+
+<header class="nav" id="nav">
+  <div class="nav-top">
+    <span class="nav-title">Gerbarium</span>
+    <div class="nav-sep"></div>
+
+    <div class="nav-dd-wrap" id="sort-wrap">
+      <button class="nav-dd-btn" id="sort-btn">
+        <span id="sort-label">Sort</span>
+        <svg class="nav-dd-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="nav-dd" id="sort-dd">
+        <button class="nav-dd-item active" data-sort="" data-btn-label="Sort">Default</button>
+        <button class="nav-dd-item" data-sort="popular" data-btn-label="Popular">Popular</button>
+        <button class="nav-dd-item" data-sort="recent" data-btn-label="Recent">Recent</button>
+      </div>
+    </div>
+
+    <div class="nav-dd-wrap" id="region-wrap">
+      <button class="nav-dd-btn" id="region-btn">
+        <span id="region-label">All</span>
+        <svg class="nav-dd-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="nav-dd align-right" id="region-dd">
+        <button class="nav-dd-item active" data-region="all" data-btn-label="All">All Countries</button>
+        <button class="nav-dd-item" data-region="russia" data-btn-label="Russia">Russia</button>
+        <button class="nav-dd-item" data-region="europe" data-btn-label="Europe">Europe</button>
+        <button class="nav-dd-item" data-region="rest" data-btn-label="World">Rest of World</button>
+      </div>
+    </div>
+
+    <div class="nav-sep"></div>
+    <div class="search-wrap">
+      <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+        <circle cx="6.5" cy="6.5" r="5" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <input id="search" type="search" placeholder="Search…" autocomplete="off" spellcheck="false" aria-label="Search coats of arms">
+    </div>
+    <div class="nav-about-wrap">
+      <button class="nav-about-btn" id="about-btn" aria-label="About">i</button>
+      <div class="nav-about-dropdown" id="about-dropdown">
+        <div class="about-desc">A catalog of 1 277 coats of arms of municipalities, regions, and districts worldwide.</div>
+        <div class="about-sep"></div>
+        <div class="about-made">Made by <a href="https://olenkevich.com" target="_blank" rel="noopener">Ivan Olenkevich</a></div>
+        <a class="btn btn-secondary about-contact" href="mailto:ivan@olenkevich.com">Contact</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+<div class="grid" id="grid"></div>
+<div id="sentinel"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</main>
+
+<div class="modal-backdrop" id="backdrop">
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-name">
+    <!-- Mobile header: more · eyebrow · close -->
+    <div class="modal-mobile-header" id="modal-mobile-header">
+      <button class="modal-icon-btn" id="mobile-more" aria-label="More actions">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><circle cx="5" cy="12" r="1.5" fill="currentColor"/><circle cx="12" cy="12" r="1.5" fill="currentColor"/><circle cx="19" cy="12" r="1.5" fill="currentColor"/></svg>
+      </button>
+      <div class="mobile-more-menu" id="mobile-more-menu">
+        <button class="mobile-more-item" id="mobile-copy-menu">
+          <svg width="15" height="15" viewBox="0 0 12 12" fill="none"><rect x="4" y="4" width="7" height="7" rx="1.5" stroke="currentColor" stroke-width="1.4"/><path d="M8 4V2.5A1.5 1.5 0 0 0 6.5 1H2.5A1.5 1.5 0 0 0 1 2.5v4A1.5 1.5 0 0 0 2.5 8H4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+          Copy Link
+        </button>
+        <div class="mobile-more-sep"></div>
+        <a class="mobile-more-item" id="mobile-download-menu" href="#" download>
+          <svg width="15" height="15" viewBox="0 0 12 12" fill="none"><path d="M6 1v7M3 5.5l3 3 3-3M1 10h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Download PNG
+        </a>
+        <div class="mobile-more-sep"></div>
+        <a class="mobile-more-item" id="mobile-wiki-menu" href="#" target="_blank" rel="noopener">
+          <svg width="13" height="13" viewBox="0 0 10 10" fill="none"><path d="M2 8L8 2M8 2H4M8 2v4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Wikipedia
+        </a>
+      </div>
+      <div class="modal-mobile-eyebrow" id="mobile-eyebrow"></div>
+      <button class="modal-close" id="modal-close" aria-label="Close">
+        <svg width="11" height="11" viewBox="0 0 12 12" fill="none">
+          <path d="M1 1L11 11M11 1L1 11" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+    <div class="modal-left">
+      <div class="modal-tabs">
+        <div class="modal-tabs-inner">
+          <button class="modal-tab active" data-tab="image">Emblem</button>
+          <button class="modal-tab" data-tab="flag">Flag</button>
+        </div>
+      </div>
+      <div class="modal-views">
+        <div class="modal-view" id="view-image">
+          <img id="modal-img" src="" alt="" loading="eager">
+        </div>
+        <div class="modal-view hidden" id="view-flag">
+          <div id="flag-canvas-wrap"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Mobile tabs row: in flow (overlays on flag tab) -->
+    <div class="modal-mobile-tabs-row">
+      <div class="modal-tabs-inner">
+        <button class="modal-tab active" data-tab="image">Emblem</button>
+        <button class="modal-tab" data-tab="flag">Flag</button>
+      </div>
+    </div>
+    <!-- Mobile body: name -->
+    <div class="modal-mobile-body">
+      <div class="modal-mobile-body-inner">
+        <div class="modal-mobile-name" id="mobile-name"></div>
+      </div>
+      <div class="modal-mobile-cta">
+        <a class="btn btn-primary" id="mobile-download" href="#" download>
+          <svg width="14" height="14" viewBox="0 0 12 12" fill="none"><path d="M6 1v7M3 5.5l3 3 3-3M1 10h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Download PNG
+        </a>
+        <div class="modal-mobile-cta-row">
+          <button class="modal-like-btn" id="mobile-like" aria-label="Like">
+            <span class="like-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            <span class="like-sep"></span>
+            <span id="mobile-like-count" class="like-count">0</span>
+          </button>
+          <button class="btn btn-secondary" id="mobile-copy">
+            <svg width="15" height="15" viewBox="0 0 12 12" fill="none"><rect x="4" y="4" width="7" height="7" rx="1.5" stroke="currentColor" stroke-width="1.4"/><path d="M8 4V2.5A1.5 1.5 0 0 0 6.5 1H2.5A1.5 1.5 0 0 0 1 2.5v4A1.5 1.5 0 0 0 2.5 8H4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+            Copy URL
+          </button>
+          <a class="btn btn-secondary" id="mobile-wiki" href="#" target="_blank" rel="noopener">
+            <svg width="13" height="13" viewBox="0 0 10 10" fill="none"><path d="M2 8L8 2M8 2H4M8 2v4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            Wiki
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="modal-body">
+      <div class="modal-body-inner">
+        <div class="modal-eyebrow" id="modal-eyebrow"></div>
+        <div class="modal-name" id="modal-name"></div>
+        <div class="modal-rows" id="modal-rows"></div>
+      </div>
+      <div class="modal-map" id="modal-map"></div>
+      <div class="modal-footer">
+        <a class="btn btn-primary" id="modal-download" href="#" download>
+          <svg width="14" height="14" viewBox="0 0 12 12" fill="none"><path d="M6 1v7M3 5.5l3 3 3-3M1 10h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Download
+        </a>
+        <div class="modal-footer-row">
+          <button class="modal-like-btn" id="modal-like" aria-label="Like">
+            <span class="like-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            <span class="like-sep"></span>
+            <span id="modal-like-count" class="like-count">0</span>
+          </button>
+          <button class="btn btn-secondary" id="modal-copy">
+            <svg width="13" height="13" viewBox="0 0 12 12" fill="none"><rect x="4" y="4" width="7" height="7" rx="1.5" stroke="currentColor" stroke-width="1.4"/><path d="M8 4V2.5A1.5 1.5 0 0 0 6.5 1H2.5A1.5 1.5 0 0 0 1 2.5v4A1.5 1.5 0 0 0 2.5 8H4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+            <span id="copy-label">Copy URL</span>
+          </button>
+          <a class="btn btn-secondary btn-accent" id="modal-wiki" href="#" target="_blank" rel="noopener">
+            Wikipedia
+            <svg width="10" height="10" viewBox="0 0 10 10" fill="none"><path d="M2 8L8 2M8 2H4M8 2v4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

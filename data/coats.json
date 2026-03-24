@@ -1,0 +1,905 @@
+[
+  {
+    "name": "Aeroport",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Coat_of_Arms_of_Aeroport_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Akademichesky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Coat_of_Arms_of_Akademichesky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Alekseevskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Coat_of_Arms_of_Alekseevskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Altufievsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coat_of_Arms_of_Altufievsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Arbat",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_Arms_of_Arbat_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Babushkinskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_Arms_of_Babushkinskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Basmannoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Coat_of_Arms_of_Basmannoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Begovoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_Arms_of_Begovoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Begovoy",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Coat_of_Arms_of_Begovoy_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Beskudnikovskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Coat_of_Arms_of_Beskudnikovskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Bibirevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Coat_of_Arms_of_Bibirevo_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Biryulyovo East",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Coat_of_Arms_of_Biryulyovo_East_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Biryulyovo Vostochnoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Coat_of_Arms_of_Biryulyovo_Vostochnoye_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Biryulyovo West",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Coat_of_Arms_of_Biryulyovo_West_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Biryulyovo Zapadnoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Coat_of_Arms_of_Biryulyovo_Zapadnoye_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Bogorodskoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_Arms_of_Bogorodskoye_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Brateevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Coat_of_Arms_of_Brateevo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Butovo North",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coat_of_Arms_of_Butovo_North_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Butovo South",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coat_of_Arms_of_Butovo_South_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Butyrsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_Arms_of_Butyrsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Chertanovo Center",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Coat_of_Arms_of_Chertanovo_Center_%28municipality_in_Moscow%29_%282001%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Chertanovo North",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_Arms_of_Chertanovo_North_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Chertanovo South",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Coat_of_Arms_of_Chertanovo_South_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Cheryomushki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Coat_of_Arms_of_Cheryomushki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Danilovskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Coat_of_Arms_of_Danilovskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Danilovsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_Arms_of_Danilovsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Donskoy",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coat_of_Arms_of_Donskoy_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Dorogomilovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_Arms_of_Dorogomilovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "East Degunino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Coat_of_Arms_of_East_Degunino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Fili-Davydkovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Coat_of_Arms_of_Fili-Davydkovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Filyovsky park",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coat_of_Arms_of_Filyovsky_park_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Gagarinsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Coat_of_Arms_of_Gagarinsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Goliyanovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Coat_of_Arms_of_Goliyanovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Golovinskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Coat_of_Arms_of_Golovinskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Ivanovskoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Coat_of_Arms_of_Ivanovskoye_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Izmaylovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Coat_of_Arms_of_Izmaylovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Kapotnya",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_Arms_of_Kapotnya_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Khamovniki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Coat_of_Arms_of_Khamovniki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Khoroshevo-Mnevniki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_Arms_of_Khoroshevo-Mnevniki_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Khoroshevskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Coat_of_Arms_of_Khoroshevskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Khovrino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coat_of_Arms_of_Khovrino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Konkovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_Arms_of_Konkovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Koptevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Coat_of_Arms_of_Koptevo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Kosino-Ukhtomsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Coat_of_Arms_of_Kosino-Ukhtomsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Kotlovka",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_Arms_of_Kotlovka_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Krasnoselsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Coat_of_Arms_of_Krasnoselsky_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Krylatskoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Coat_of_Arms_of_Krylatskoye_%28municipality_in_Moscow%29_%28N2%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Kuntsevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_Arms_of_Kuntsevo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Kurkino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Coat_of_Arms_of_Kurkino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Kuzminki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Coat_of_Arms_of_Kuzminki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Lefortovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_Arms_of_Lefortovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Levoberezhny",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Coat_of_Arms_of_Levoberezhny_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Lianozovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Coat_of_Arms_of_Lianozovo_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Losinoostrovskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arms_of_Losinoostrovskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Lyublino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coat_of_Arms_of_Lyublino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Marfino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Coat_of_Arms_of_Marfino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Marino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_Arms_of_Marino_%28municipality_in_Moscow%29_proposal.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Maryina Roshcha",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Coat_of_Arms_of_Maryina_Roshcha_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Meshchansky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Coat_of_Arms_of_Meshchansky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Metrogorodok",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_Arms_of_Metrogorodok_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Mitino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_Arms_of_Mitino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Molzhaninovskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Coat_of_Arms_of_Molzhaninovskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Moskvorechye-Saburovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Coat_of_Arms_of_Moskvorechye-Saburovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Mozhaiskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arms_of_Mozhaiskoe_%28municipality_in_Moscow%29%2C_Higher_Quality.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Nagatino-Sadovniki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Coat_of_Arms_of_Nagatino-Sadovniki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Nagatinsky Zaton",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_Arms_of_Nagatinsky_Zaton_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Nagornoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_Arms_of_Nagornoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Nekrasovka",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Coat_of_Arms_of_Nekrasovka_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Nizhegorodskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Coat_of_Arms_of_Nizhegorodskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "North Izmailovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Coat_of_Arms_of_North_Izmailovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "North Medvedkovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Coat_of_Arms_of_North_Medvedkovo_%28municipality_in_Moscow%29_proposal_%282003%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "North Tushino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_Arms_of_North_Tushino_%28municipality_in_Moscow%29_%281997%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Northern Orekhovo-Borisovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_Arms_of_Northern_Orekhovo-Borisovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Novo-Peredelkino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Coat_of_Arms_of_Novo-Peredelkino_%28municipality_in_Moscow%29_%281998%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Novogireevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Coat_of_Arms_of_Novogireevo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Novokosino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_Arms_of_Novokosino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Obruchevskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Coat_of_Arms_of_Obruchevskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Ochakovo-Matveevskoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Coat_of_Arms_of_Ochakovo-Matveevskoye_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Ostankinsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Coat_of_Arms_of_Ostankinsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Otradnoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Coat_of_Arms_of_Otradnoye_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Pechatniki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Coat_of_Arms_of_Pechatniki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Perovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Coat_of_Arms_of_Perovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Pokrovskoye-Streshnevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coat_of_Arms_of_Pokrovskoye-Streshnevo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Preobrazhenskoye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Coat_of_Arms_of_Preobrazhenskoye_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Presnensky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coat_of_Arms_of_Presnensky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Prospekt Vernadskogo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Coat_of_Arms_of_Prospekt_Vernadskogo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Ramenki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_Arms_of_Ramenki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Rostokino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Coat_of_Arms_of_Rostokino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Ryazanskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_Arms_of_Ryazanskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Savelovsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Coat_of_Arms_of_Savelovsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Schukino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_Arms_of_Schukino_%28municipality_in_Moscow%29_proposal_%282003%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Severnoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_Arms_of_Severnoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Sokol",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Coat_of_Arms_of_Sokol_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Sokolinaya Gora",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Coat_of_Arms_of_Sokolinaya_Gora_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Sokolniki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_Arms_of_Sokolniki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Solntsevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_Arms_of_Solntsevo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "South Medvedkovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Coat_of_Arms_of_South_Medvedkovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "South Orekhovo-Borisovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coat_of_Arms_of_South_Orekhovo-Borisovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "South Tushino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coat_of_Arms_of_South_Tushino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Strogino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coat_of_Arms_of_Strogino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Sviblovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Coat_of_Arms_of_Sviblovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Taganskoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_Arms_of_Taganskoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Tekstilshchiki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coat_of_Arms_of_Tekstilshchiki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Timiryazevsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coat_of_Arms_of_Timiryazevsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Troparevo-Nikulino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arms_of_Troparevo-Nikulino_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Tsaritsino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coat_of_Arms_of_Tsaritsino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Tverskoy",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Coat_of_Arms_of_Tverskoy_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Tyoply Stan",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coat_of_Arms_of_Tyoply_Stan_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Veshnyaki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coat_of_Arms_of_Veshnyaki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Vnukovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Coat_of_Arms_of_Vnukovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Voikovsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_Arms_of_Voikovsky_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Vostochnoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Coat_of_Arms_of_Vostochnoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Vostochnoye Degunino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_Arms_of_Vostochnoye_Degunino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Vostochnoye Izmailovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_Arms_of_Vostochnoye_Izmailovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Vykhino-Zhulebino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_Arms_of_Vykhino-Zhulebino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "West Degunino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coat_of_Arms_of_West_Degunino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Yakimanka",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coat_of_Arms_of_Yakimanka_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Yaroslavsky",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Coat_of_Arms_of_Yaroslavsky_%28municipality_in_Moscow%29.svg",
+    "image_format": "svg"
+  },
+  {
+    "name": "Yasenevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_Arms_of_Yasenevo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Yuzhnoportovoe",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coat_of_Arms_of_Yuzhnoportovoe_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zamoskvorechye",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Coat_of_Arms_of_Zamoskvorechye_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zapadnoye Degunino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Coat_of_Arms_of_Zapadnoye_Degunino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zelenograd-Kryukovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Coat_of_Arms_of_Zelenograd-Kryukovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zelenograd-Matushkino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_Arms_of_Zelenograd-Matushkino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zelenograd-Old Kryukovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Coat_of_Arms_of_Zelenograd-Old_Kryukovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zelenograd-Savelki",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_Arms_of_Zelenograd-Savelki_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zelenograd-Silino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_Arms_of_Zelenograd-Silino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zyablikovo",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Coat_of_Arms_of_Zyablikovo_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  },
+  {
+    "name": "Zyuzino",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Coat_of_Arms_of_Zyuzino_%28municipality_in_Moscow%29.png",
+    "image_format": "png"
+  }
+]

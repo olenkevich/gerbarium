@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Bibirevo",
+    "okrug": "North-Eastern",
+    "okrug_code": "SVAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Coat_of_Arms_of_Bibirevo_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Bogorodskoye",
+    "okrug": "Eastern",
+    "okrug_code": "VAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_Arms_of_Bogorodskoye_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Donskoy",
+    "okrug": "Southern",
+    "okrug_code": "YuAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coat_of_Arms_of_Donskoy_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Kapotnya",
+    "okrug": "South-Eastern",
+    "okrug_code": "YuVAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_Arms_of_Kapotnya_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Khoroshevo-Mnevniki",
+    "okrug": "North-Western",
+    "okrug_code": "SZAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_Arms_of_Khoroshevo-Mnevniki_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Krasnoselsky",
+    "okrug": "Central",
+    "okrug_code": "TsAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Coat_of_Arms_of_Krasnoselsky_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Lianozovo",
+    "okrug": "North-Eastern",
+    "okrug_code": "SVAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Coat_of_Arms_of_Lianozovo_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Maryina Roshcha",
+    "okrug": "North-Eastern",
+    "okrug_code": "SVAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Coat_of_Arms_of_Maryina_Roshcha_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Otradnoye",
+    "okrug": "North-Eastern",
+    "okrug_code": "SVAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Coat_of_Arms_of_Otradnoye_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Troparevo-Nikulino",
+    "okrug": "Western",
+    "okrug_code": "ZAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arms_of_Troparevo-Nikulino_%28municipality_in_Moscow%29.svg"
+  },
+  {
+    "name": "Yaroslavsky",
+    "okrug": "North-Eastern",
+    "okrug_code": "SVAO",
+    "city": "Moscow",
+    "country": "Russia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Coat_of_Arms_of_Yaroslavsky_%28municipality_in_Moscow%29.svg"
+  }
+]

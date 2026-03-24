@@ -1,0 +1,9 @@
+{
+  "name": "moscow-coats-catalog",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch-coats.js",
+    "dev": "npx serve ."
+  }
+}

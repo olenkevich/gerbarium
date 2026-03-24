@@ -1,0 +1,1858 @@
+{
+  "districts": [
+    {
+      "name": "Aeroport",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Aeroport (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Coat_of_Arms_of_Aeroport_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Akademichesky",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Akademichesky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Coat_of_Arms_of_Akademichesky_%28municipality_in_Moscow%29.png",
+      "width": 185,
+      "height": 220,
+      "license": "Public domain"
+    },
+    {
+      "name": "Alekseevskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Alekseevskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Coat_of_Arms_of_Alekseevskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 217,
+      "license": "Public domain"
+    },
+    {
+      "name": "Altufievsky",
+      "okrug": null,
+      "file": "File:Coat of Arms of Altufievsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coat_of_Arms_of_Altufievsky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 193,
+      "license": "Public domain"
+    },
+    {
+      "name": "Arbat",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Arbat (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_Arms_of_Arbat_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 194,
+      "license": "Public domain"
+    },
+    {
+      "name": "Babushkinskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Babushkinskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_Arms_of_Babushkinskoe_%28municipality_in_Moscow%29.png",
+      "width": 581,
+      "height": 717,
+      "license": "Public domain"
+    },
+    {
+      "name": "Basmannoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Basmannoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Coat_of_Arms_of_Basmannoe_%28municipality_in_Moscow%29.png",
+      "width": 3531,
+      "height": 3543,
+      "license": "Public domain"
+    },
+    {
+      "name": "Begovoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Begovoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_Arms_of_Begovoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Begovoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Begovoe (municipality in Moscow).gif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Coat_of_Arms_of_Begovoe_%28municipality_in_Moscow%29.gif",
+      "width": 140,
+      "height": 175,
+      "license": "CC0"
+    },
+    {
+      "name": "Begovoy",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Begovoy (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Coat_of_Arms_of_Begovoy_%28municipality_in_Moscow%29.png",
+      "width": 246,
+      "height": 306,
+      "license": "Public domain"
+    },
+    {
+      "name": "Beskudnikovskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Beskudnikovskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Coat_of_Arms_of_Beskudnikovskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Bhf Ingolstadt Nord, underpass, img 2",
+      "okrug": null,
+      "file": "File:Bhf Ingolstadt Nord, underpass, img 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bhf_Ingolstadt_Nord%2C_underpass%2C_img_2.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "Bibirevo",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Bibirevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_Arms_of_Bibirevo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 223,
+      "license": "Public domain"
+    },
+    {
+      "name": "Biryulyovo East",
+      "okrug": null,
+      "file": "File:Coat of Arms of Biryulyovo East (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Coat_of_Arms_of_Biryulyovo_East_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 225,
+      "license": "Public domain"
+    },
+    {
+      "name": "Biryulyovo Vostochnoye",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Biryulyovo Vostochnoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Coat_of_Arms_of_Biryulyovo_Vostochnoye_%28municipality_in_Moscow%29.png",
+      "width": 831,
+      "height": 1038,
+      "license": "Public domain"
+    },
+    {
+      "name": "Biryulyovo West",
+      "okrug": null,
+      "file": "File:Coat of Arms of Biryulyovo West (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Coat_of_Arms_of_Biryulyovo_West_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 184,
+      "license": "Public domain"
+    },
+    {
+      "name": "Biryulyovo Zapadnoye",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Biryulyovo Zapadnoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Coat_of_Arms_of_Biryulyovo_Zapadnoye_%28municipality_in_Moscow%29.png",
+      "width": 949,
+      "height": 1184,
+      "license": "Public domain"
+    },
+    {
+      "name": "Bogorodskoye",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Bogorodskoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Coat_of_Arms_of_Bogorodskoye_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 219,
+      "license": "Public domain"
+    },
+    {
+      "name": "Bogorodskoye",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Bogorodskoye (municipality in Moscow, 2021).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Coat_of_Arms_of_Bogorodskoye_%28municipality_in_Moscow%2C_2021%29.png",
+      "width": 931,
+      "height": 1181,
+      "license": "Public domain"
+    },
+    {
+      "name": "Bogorodskoye",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Bogorodskoye (municipality in Moscow, 2021).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Coat_of_Arms_of_Bogorodskoye_%28municipality_in_Moscow%2C_2021%29.png",
+      "width": 931,
+      "height": 1181,
+      "license": "Public domain"
+    },
+    {
+      "name": "Brateevo",
+      "okrug": null,
+      "file": "File:Coat of Arms of Brateevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Coat_of_Arms_of_Brateevo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 213,
+      "license": "Public domain"
+    },
+    {
+      "name": "Brateyevo",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Brateyevo (municipality in Moscow, 2021).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_Arms_of_Brateyevo_%28municipality_in_Moscow%2C_2021%29.png",
+      "width": 950,
+      "height": 1186,
+      "license": "Public domain"
+    },
+    {
+      "name": "Butovo North",
+      "okrug": null,
+      "file": "File:Coat of Arms of Butovo North (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coat_of_Arms_of_Butovo_North_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Butovo South",
+      "okrug": null,
+      "file": "File:Coat of Arms of Butovo South (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coat_of_Arms_of_Butovo_South_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 208,
+      "license": "Public domain"
+    },
+    {
+      "name": "Butyrsky",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Butyrsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_Arms_of_Butyrsky_%28municipality_in_Moscow%29.png",
+      "width": 814,
+      "height": 1024,
+      "license": "Public domain"
+    },
+    {
+      "name": "Butyrsky",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Butyrsky (municipality in Moscow, 2019).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_Arms_of_Butyrsky_%28municipality_in_Moscow%2C_2019%29.png",
+      "width": 827,
+      "height": 1033,
+      "license": "Public domain"
+    },
+    {
+      "name": "CAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:CAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/CAO_district_of_Moscow_coa.png",
+      "width": 700,
+      "height": 700,
+      "license": "Public domain"
+    },
+    {
+      "name": "Central (okrug)",
+      "okrug": null,
+      "file": "File:COA Moscow Central Administrative Okrug.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/COA_Moscow_Central_Administrative_Okrug.svg",
+      "width": 707,
+      "height": 697,
+      "license": "Public domain"
+    },
+    {
+      "name": "Chertanovo Center",
+      "okrug": null,
+      "file": "File:Coat of Arms of Chertanovo Center (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Coat_of_Arms_of_Chertanovo_Center_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Chertanovo Center",
+      "okrug": null,
+      "file": "File:Coat of Arms of Chertanovo Center (municipality in Moscow) (2001).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Coat_of_Arms_of_Chertanovo_Center_%28municipality_in_Moscow%29_%282001%29.png",
+      "width": 200,
+      "height": 213,
+      "license": "Public domain"
+    },
+    {
+      "name": "Chertanovo North",
+      "okrug": null,
+      "file": "File:Coat of Arms of Chertanovo North (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_Arms_of_Chertanovo_North_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 211,
+      "license": "Public domain"
+    },
+    {
+      "name": "Chertanovo South",
+      "okrug": null,
+      "file": "File:Coat of Arms of Chertanovo South (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Coat_of_Arms_of_Chertanovo_South_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 219,
+      "license": "Public domain"
+    },
+    {
+      "name": "Cheryomushki",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Cheryomushki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Coat_of_Arms_of_Cheryomushki_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms bogorodskoe",
+      "okrug": null,
+      "file": "File:Coat of arms bogorodskoe.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Coat_of_arms_bogorodskoe.jpg",
+      "width": 160,
+      "height": 200,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Bekasovo District",
+      "okrug": null,
+      "file": "File:Coat of arms of Bekasovo District.gif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Bekasovo_District.gif",
+      "width": 320,
+      "height": 400,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Desyonovskoye Rural Settlement (Moscow Oblast)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Desyonovskoye Rural Settlement (Moscow Oblast).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Coat_of_Arms_of_Desyonovskoye_Rural_Settlement_%28Moscow_Oblast%29.png",
+      "width": 262,
+      "height": 324,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Dmitrovskoye municipality (Moscow) proposal",
+      "okrug": null,
+      "file": "File:Coat of Arms of Dmitrovskoye municipality (Moscow) proposal.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_Arms_of_Dmitrovskoye_municipality_%28Moscow%29_proposal.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Filimonkovskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Filimonkovskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Coat_of_Arms_of_Filimonkovskoe_%28Moscow%29.png",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Kiyevsky (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of arms of Kiyevsky (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Coat_of_arms_of_Kiyevsky_%28Moscow%29.png",
+      "width": 947,
+      "height": 1183,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Klyonovskoe (Moscow Oblast)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Klyonovskoe (Moscow Oblast).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Coat_of_Arms_of_Klyonovskoe_%28Moscow_Oblast%29.png",
+      "width": 830,
+      "height": 1038,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Kokoshkino",
+      "okrug": null,
+      "file": "File:Coat of arms of Kokoshkino.gif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Coat_of_arms_of_Kokoshkino.gif",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Kokoshkino (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of arms of Kokoshkino (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Coat_of_arms_of_Kokoshkino_%28Moscow%29.png",
+      "width": 434,
+      "height": 538,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Kommunarka District",
+      "okrug": null,
+      "file": "File:Coat of arms of Kommunarka District.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coat_of_arms_of_Kommunarka_District.png",
+      "width": 819,
+      "height": 1024,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Krasnopahorskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Krasnopahorskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Coat_of_Arms_of_Krasnopahorskoe_%28Moscow%29.png",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Lomonosovsky District, Moscow",
+      "okrug": null,
+      "file": "File:Coat of arms of Lomonosovsky District, Moscow.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Coat_of_arms_of_Lomonosovsky_District%2C_Moscow.png",
+      "width": 174,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Marina Roshcha (rayon in Moscow) (1997)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Marina Roshcha (rayon in Moscow) (1997).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_Arms_of_Marina_Roshcha_%28rayon_in_Moscow%29_%281997%29.png",
+      "width": 200,
+      "height": 184,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Mikhaylovo-Yartcevskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Mikhaylovo-Yartcevskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Coat_of_Arms_of_Mikhaylovo-Yartcevskoe_%28Moscow%29.png",
+      "width": 140,
+      "height": 175,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Moskovsky (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Moskovsky (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coat_of_Arms_of_Moskovsky_%28Moscow%29.png",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Mosrentgen (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Mosrentgen (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Coat_of_Arms_of_Mosrentgen_%28Moscow%29.png",
+      "width": 150,
+      "height": 188,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of North district in Moscow emblem",
+      "okrug": null,
+      "file": "File:Coat of Arms of North district in Moscow emblem.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Coat_of_Arms_of_North_district_in_Moscow_emblem.png",
+      "width": 200,
+      "height": 201,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Novofedorovskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Novofedorovskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coat_of_Arms_of_Novofedorovskoe_%28Moscow%29.png",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Orekhovo-Borisovo Severnoye District",
+      "okrug": null,
+      "file": "File:Coat of Arms of Orekhovo-Borisovo Severnoye District.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coat_of_Arms_of_Orekhovo-Borisovo_Severnoye_District.png",
+      "width": 957,
+      "height": 1189,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Pervomayskoye (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of arms of Pervomayskoye (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Coat_of_arms_of_Pervomayskoye_%28Moscow%29.png",
+      "width": 948,
+      "height": 1183,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Pervomayskoye rural settlement",
+      "okrug": null,
+      "file": "File:Coat of arms of Pervomayskoye rural settlement.gif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Coat_of_arms_of_Pervomayskoye_rural_settlement.gif",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Posyolok Kievskiy",
+      "okrug": null,
+      "file": "File:Coat of arms of Posyolok Kievskiy.gif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_arms_of_Posyolok_Kievskiy.gif",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Rogovskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Rogovskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Coat_of_Arms_of_Rogovskoe_%28Moscow%29.png",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Ryazanovskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Ryazanovskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_Arms_of_Ryazanovskoe_%28Moscow%29.png",
+      "width": 140,
+      "height": 175,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Schapovskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Schapovskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coat_of_Arms_of_Schapovskoe_%28Moscow%29.png",
+      "width": 475,
+      "height": 593,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Shcherbinka (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Shcherbinka (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_Arms_of_Shcherbinka_%28Moscow%29.png",
+      "width": 250,
+      "height": 300,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of arms of Shcherbinka District",
+      "okrug": null,
+      "file": "File:Coat of arms of Shcherbinka District.gif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Coat_of_arms_of_Shcherbinka_District.gif",
+      "width": 400,
+      "height": 500,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Sosenskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Sosenskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Coat_of_Arms_of_Sosenskoe_%28Moscow%29.png",
+      "width": 150,
+      "height": 188,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Troitsk (Moscow oblast)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Troitsk (Moscow oblast).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Coat_of_Arms_of_Troitsk_%28Moscow_oblast%29.png",
+      "width": 175,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Vnukovskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Vnukovskoe.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coat_of_Arms_of_Vnukovskoe.png",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Voronovskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Voronovskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Coat_of_Arms_of_Voronovskoe_%28Moscow%29.png",
+      "width": 150,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Coat of Arms of Voskresenskoe (Moscow)",
+      "okrug": null,
+      "file": "File:Coat of Arms of Voskresenskoe (Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_Arms_of_Voskresenskoe_%28Moscow%29.png",
+      "width": 951,
+      "height": 1186,
+      "license": "Public domain"
+    },
+    {
+      "name": "Danilovskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Danilovskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Coat_of_Arms_of_Danilovskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Danilovsky",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Danilovsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_Arms_of_Danilovsky_%28municipality_in_Moscow%29.png",
+      "width": 949,
+      "height": 1185,
+      "license": "Public domain"
+    },
+    {
+      "name": "Donskoy",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Donskoy (municipality in Moscow) (2001).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Coat_of_Arms_of_Donskoy_%28municipality_in_Moscow%29_%282001%29.png",
+      "width": 200,
+      "height": 205,
+      "license": "Public domain"
+    },
+    {
+      "name": "Dorogomilovo",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Dorogomilovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_Arms_of_Dorogomilovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "East Degunino",
+      "okrug": null,
+      "file": "File:Coat of Arms of East Degunino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Coat_of_Arms_of_East_Degunino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Fili-Davydkovo",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Fili-Davydkovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Coat_of_Arms_of_Fili-Davydkovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 217,
+      "license": "Public domain"
+    },
+    {
+      "name": "Fili-Davydkovo",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Fili-Davydkovo (municipality in Moscow, 2018).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Coat_of_Arms_of_Fili-Davydkovo_%28municipality_in_Moscow%2C_2018%29.png",
+      "width": 951,
+      "height": 1185,
+      "license": "Public domain"
+    },
+    {
+      "name": "Filyovsky park",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Filyovsky park (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coat_of_Arms_of_Filyovsky_park_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 217,
+      "license": "Public domain"
+    },
+    {
+      "name": "Gagarinsky",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Gagarinsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Coat_of_Arms_of_Gagarinsky_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 223,
+      "license": "Public domain"
+    },
+    {
+      "name": "Gerb of Novomoskovsky Administrative Okrug (Novomoskovsky)",
+      "okrug": null,
+      "file": "File:Gerb of Novomoskovsky Administrative Okrug (Novomoskovsky).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gerb_of_Novomoskovsky_Administrative_Okrug_%28Novomoskovsky%29.png",
+      "width": 322,
+      "height": 400,
+      "license": "Public domain"
+    },
+    {
+      "name": "Gerb of Troitsky Administrative Okrug (Troitsky)",
+      "okrug": null,
+      "file": "File:Gerb of Troitsky Administrative Okrug (Troitsky).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Gerb_of_Troitsky_Administrative_Okrug_%28Troitsky%29.png",
+      "width": 319,
+      "height": 400,
+      "license": "Public domain"
+    },
+    {
+      "name": "Goliyanovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of Goliyanovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Coat_of_Arms_of_Goliyanovo_%28municipality_in_Moscow%29.png",
+      "width": 949,
+      "height": 1185,
+      "license": "Public domain"
+    },
+    {
+      "name": "Golovinskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Golovinskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Coat_of_Arms_of_Golovinskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 213,
+      "license": "Public domain"
+    },
+    {
+      "name": "Ivanovskoye",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Ivanovskoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Coat_of_Arms_of_Ivanovskoye_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 220,
+      "license": "Public domain"
+    },
+    {
+      "name": "Izmaylovo",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Izmaylovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Coat_of_Arms_of_Izmaylovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kapotnya",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Kapotnya (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_Arms_of_Kapotnya_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kapotnya",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Kapotnya (municipality in Moscow) (2002).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coat_of_Arms_of_Kapotnya_%28municipality_in_Moscow%29_%282002%29.png",
+      "width": 200,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Khamovniki",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Khamovniki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Coat_of_Arms_of_Khamovniki_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 210,
+      "license": "Public domain"
+    },
+    {
+      "name": "Khoroshevo-Mnevniki",
+      "okrug": "North-Western (SZAO)",
+      "file": "File:Coat of Arms of Khoroshevo-Mnevniki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Coat_of_Arms_of_Khoroshevo-Mnevniki_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Khoroshevo-Mnevniki",
+      "okrug": "North-Western (SZAO)",
+      "file": "File:Coat of Arms of Khoroshevo-Mnevniki (municipality in Moscow).svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_Arms_of_Khoroshevo-Mnevniki_%28municipality_in_Moscow%29.svg",
+      "width": 562,
+      "height": 703,
+      "license": "Public domain"
+    },
+    {
+      "name": "Khoroshevskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Khoroshevskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Coat_of_Arms_of_Khoroshevskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Khovrino",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Khovrino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coat_of_Arms_of_Khovrino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Khovrino",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Khovrino (municipality in Moscow, 2023).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Coat_of_Arms_of_Khovrino_%28municipality_in_Moscow%2C_2023%29.png",
+      "width": 873,
+      "height": 1093,
+      "license": "Public domain"
+    },
+    {
+      "name": "Konkovo",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Konkovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_Arms_of_Konkovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 220,
+      "license": "Public domain"
+    },
+    {
+      "name": "Koptevo",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Koptevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Coat_of_Arms_of_Koptevo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 160,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kosino-Ukhtomsky",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Kosino-Ukhtomsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Coat_of_Arms_of_Kosino-Ukhtomsky_%28municipality_in_Moscow%29.png",
+      "width": 529,
+      "height": 660,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kotlovka",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Kotlovka (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_Arms_of_Kotlovka_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 205,
+      "license": "Public domain"
+    },
+    {
+      "name": "Krasnoselsky",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Krasnoselsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_Arms_of_Krasnoselsky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 220,
+      "license": "Public domain"
+    },
+    {
+      "name": "Krylatskoye",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Krylatskoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coat_of_Arms_of_Krylatskoye_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 200,
+      "license": "Public domain"
+    },
+    {
+      "name": "Krylatskoye",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Krylatskoye (municipality in Moscow) (N2).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Coat_of_Arms_of_Krylatskoye_%28municipality_in_Moscow%29_%28N2%29.png",
+      "width": 200,
+      "height": 202,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kuntsevo",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Kuntsevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_Arms_of_Kuntsevo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kurkino",
+      "okrug": "North-Western (SZAO)",
+      "file": "File:Coat of Arms of Kurkino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Coat_of_Arms_of_Kurkino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 210,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kuzminki",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Kuzminki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Coat_of_Arms_of_Kuzminki_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Kuzminki",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:New Coat of Arms of Kuzminki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/New_Coat_of_Arms_of_Kuzminki_%28municipality_in_Moscow%29.png",
+      "width": 945,
+      "height": 1183,
+      "license": "Public domain"
+    },
+    {
+      "name": "Lefortovo",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Lefortovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_Arms_of_Lefortovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 208,
+      "license": "Public domain"
+    },
+    {
+      "name": "Levoberezhny",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Levoberezhny (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Coat_of_Arms_of_Levoberezhny_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Lianozovo",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Lianozovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_Arms_of_Lianozovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 228,
+      "license": "Public domain"
+    },
+    {
+      "name": "Losinoostrovskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Losinoostrovskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arms_of_Losinoostrovskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Lyublino",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Lyublino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coat_of_Arms_of_Lyublino_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 209,
+      "license": "Public domain"
+    },
+    {
+      "name": "Marfino",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Marfino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Coat_of_Arms_of_Marfino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 219,
+      "license": "Public domain"
+    },
+    {
+      "name": "Marino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Marino (municipality in Moscow) proposal.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_Arms_of_Marino_%28municipality_in_Moscow%29_proposal.png",
+      "width": 200,
+      "height": 257,
+      "license": "Public domain"
+    },
+    {
+      "name": "Marino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Marino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coat_of_Arms_of_Marino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 219,
+      "license": "Public domain"
+    },
+    {
+      "name": "Marino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Marino (municipality in Moscow, 2020).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Coat_of_Arms_of_Marino_%28municipality_in_Moscow%2C_2020%29.png",
+      "width": 690,
+      "height": 878,
+      "license": "Public domain"
+    },
+    {
+      "name": "Maryino-gerb",
+      "okrug": null,
+      "file": "File:Maryino-gerb.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Maryino-gerb.jpg",
+      "width": 300,
+      "height": 300,
+      "license": "Public domain"
+    },
+    {
+      "name": "Meshchansky",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Meshchansky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Coat_of_Arms_of_Meshchansky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 208,
+      "license": "Public domain"
+    },
+    {
+      "name": "Metrogorodok",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Metrogorodok (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_Arms_of_Metrogorodok_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 217,
+      "license": "Public domain"
+    },
+    {
+      "name": "Mitino",
+      "okrug": "North-Western (SZAO)",
+      "file": "File:Coat of Arms of Mitino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_Arms_of_Mitino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Molzhaninovskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Molzhaninovskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Coat_of_Arms_of_Molzhaninovskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Moscow nekrasovka coat of arms",
+      "okrug": null,
+      "file": "File:Moscow nekrasovka coat of arms.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Moscow_nekrasovka_coat_of_arms.jpeg",
+      "width": 186,
+      "height": 229,
+      "license": "Public domain"
+    },
+    {
+      "name": "Moscow, beginning of Beskudnikovsky Boulevard (21985275878)",
+      "okrug": null,
+      "file": "File:Moscow, beginning of Beskudnikovsky Boulevard (21985275878).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Moscow%2C_beginning_of_Beskudnikovsky_Boulevard_%2821985275878%29.jpg",
+      "width": 3183,
+      "height": 2118,
+      "license": "CC BY 2.0"
+    },
+    {
+      "name": "Moscow, Krutitskaya Embankment (30302703963)",
+      "okrug": null,
+      "file": "File:Moscow, Krutitskaya Embankment (30302703963).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Moscow%2C_Krutitskaya_Embankment_%2830302703963%29.jpg",
+      "width": 3076,
+      "height": 2052,
+      "license": "CC BY 2.0"
+    },
+    {
+      "name": "Moscow, Strogino district sign, July 2025 01",
+      "okrug": null,
+      "file": "File:Moscow, Strogino district sign, July 2025 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Moscow%2C_Strogino_district_sign%2C_July_2025_01.jpg",
+      "width": 3456,
+      "height": 4946,
+      "license": "CC0"
+    },
+    {
+      "name": "Moscow, Strogino district sign, July 2025 02",
+      "okrug": null,
+      "file": "File:Moscow, Strogino district sign, July 2025 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Moscow%2C_Strogino_district_sign%2C_July_2025_02.jpg",
+      "width": 3456,
+      "height": 5184,
+      "license": "CC0"
+    },
+    {
+      "name": "Moscow, Yunosti Street, sign of Veshnyaki district (31207485491)",
+      "okrug": null,
+      "file": "File:Moscow, Yunosti Street, sign of Veshnyaki district (31207485491).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Moscow%2C_Yunosti_Street%2C_sign_of_Veshnyaki_district_%2831207485491%29.jpg",
+      "width": 3264,
+      "height": 2178,
+      "license": "CC BY 2.0"
+    },
+    {
+      "name": "Moskvorechye-Saburovo",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Moskvorechye-Saburovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Coat_of_Arms_of_Moskvorechye-Saburovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 185,
+      "license": "Public domain"
+    },
+    {
+      "name": "Mozhaiskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Mozhaiskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Coat_of_Arms_of_Mozhaiskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Mozhaiskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Mozhaiskoe (municipality in Moscow), Higher Quality.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_Arms_of_Mozhaiskoe_%28municipality_in_Moscow%29%2C_Higher_Quality.png",
+      "width": 536,
+      "height": 668,
+      "license": "Public domain"
+    },
+    {
+      "name": "Nagatino-Sadovniki",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Nagatino-Sadovniki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Coat_of_Arms_of_Nagatino-Sadovniki_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Nagatinsky Zaton",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Nagatinsky Zaton (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_Arms_of_Nagatinsky_Zaton_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Nagornoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Nagornoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_Arms_of_Nagornoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 233,
+      "license": "Public domain"
+    },
+    {
+      "name": "Nekrasovka",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Nekrasovka (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Coat_of_Arms_of_Nekrasovka_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Nekrasovka coa",
+      "okrug": null,
+      "file": "File:Nekrasovka coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nekrasovka_coa.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Nizhegorodskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Nizhegorodskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Coat_of_Arms_of_Nizhegorodskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "North Izmailovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of North Izmailovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Coat_of_Arms_of_North_Izmailovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 189,
+      "license": "Public domain"
+    },
+    {
+      "name": "North Medvedkovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of North Medvedkovo (municipality in Moscow) proposal (2003).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Coat_of_Arms_of_North_Medvedkovo_%28municipality_in_Moscow%29_proposal_%282003%29.png",
+      "width": 200,
+      "height": 231,
+      "license": "Public domain"
+    },
+    {
+      "name": "North Medvedkovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of North Medvedkovo (municipality in Moscow) (2004).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Coat_of_Arms_of_North_Medvedkovo_%28municipality_in_Moscow%29_%282004%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "North Tushino",
+      "okrug": null,
+      "file": "File:Coat of Arms of North Tushino (municipality in Moscow) (1997).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coat_of_Arms_of_North_Tushino_%28municipality_in_Moscow%29_%281997%29.png",
+      "width": 1244,
+      "height": 1324,
+      "license": "Public domain"
+    },
+    {
+      "name": "Northern Orekhovo-Borisovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of Northern Orekhovo-Borisovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_Arms_of_Northern_Orekhovo-Borisovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 199,
+      "license": "Public domain"
+    },
+    {
+      "name": "Novo-Peredelkino",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Novo-Peredelkino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Coat_of_Arms_of_Novo-Peredelkino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 224,
+      "license": "Public domain"
+    },
+    {
+      "name": "Novo-Peredelkino",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Novo-Peredelkino (municipality in Moscow) (1998).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Coat_of_Arms_of_Novo-Peredelkino_%28municipality_in_Moscow%29_%281998%29.png",
+      "width": 200,
+      "height": 179,
+      "license": "Public domain"
+    },
+    {
+      "name": "Novogireevo",
+      "okrug": null,
+      "file": "File:Coat of Arms of Novogireevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Coat_of_Arms_of_Novogireevo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 221,
+      "license": "Public domain"
+    },
+    {
+      "name": "Novokosino",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Novokosino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_Arms_of_Novokosino_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Obruchevskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Obruchevskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Coat_of_Arms_of_Obruchevskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Ochakovo-Matveevskoye",
+      "okrug": null,
+      "file": "File:Coat of Arms of Ochakovo-Matveevskoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Coat_of_Arms_of_Ochakovo-Matveevskoye_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 223,
+      "license": "Public domain"
+    },
+    {
+      "name": "Ostankinsky",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Ostankinsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Coat_of_Arms_of_Ostankinsky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 208,
+      "license": "Public domain"
+    },
+    {
+      "name": "Ostankinsky",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Ostankinsky (municipality in Moscow, 2018).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Coat_of_Arms_of_Ostankinsky_%28municipality_in_Moscow%2C_2018%29.png",
+      "width": 1210,
+      "height": 1478,
+      "license": "Public domain"
+    },
+    {
+      "name": "Otradnoye",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Otradnoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Coat_of_Arms_of_Otradnoye_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 236,
+      "license": "Public domain"
+    },
+    {
+      "name": "Pechatniki",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Pechatniki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Coat_of_Arms_of_Pechatniki_%28municipality_in_Moscow%29.png",
+      "width": 950,
+      "height": 1187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Perovo",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Perovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Coat_of_Arms_of_Perovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 211,
+      "license": "Public domain"
+    },
+    {
+      "name": "Perovo",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Perovo (municipality in Moscow, 2020).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Coat_of_Arms_of_Perovo_%28municipality_in_Moscow%2C_2020%29.png",
+      "width": 794,
+      "height": 1007,
+      "license": "Public domain"
+    },
+    {
+      "name": "Pokrovskoye-Streshnevo",
+      "okrug": "North-Western (SZAO)",
+      "file": "File:Coat of Arms of Pokrovskoye-Streshnevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coat_of_Arms_of_Pokrovskoye-Streshnevo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Preobrazhenskoye",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Preobrazhenskoye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Coat_of_Arms_of_Preobrazhenskoye_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 224,
+      "license": "Public domain"
+    },
+    {
+      "name": "Presnensky",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Presnensky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coat_of_Arms_of_Presnensky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 194,
+      "license": "Public domain"
+    },
+    {
+      "name": "Prospekt Vernadskogo",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Prospekt Vernadskogo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Coat_of_Arms_of_Prospekt_Vernadskogo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 206,
+      "license": "Public domain"
+    },
+    {
+      "name": "Ramenki",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Ramenki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_Arms_of_Ramenki_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 198,
+      "license": "Public domain"
+    },
+    {
+      "name": "Rostokino",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Rostokino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Coat_of_Arms_of_Rostokino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Ryazanskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Ryazanskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_Arms_of_Ryazanskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "SAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:SAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/SAO_district_of_Moscow_coa.png",
+      "width": 700,
+      "height": 707,
+      "license": "Public domain"
+    },
+    {
+      "name": "Savelovsky",
+      "okrug": null,
+      "file": "File:Coat of Arms of Savelovsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Coat_of_Arms_of_Savelovsky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 247,
+      "license": "Public domain"
+    },
+    {
+      "name": "Schukino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Schukino (municipality in Moscow) proposal (2003).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_Arms_of_Schukino_%28municipality_in_Moscow%29_proposal_%282003%29.png",
+      "width": 200,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Severnoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Severnoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_Arms_of_Severnoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Shield of Kuntsevo District, Moscow",
+      "okrug": null,
+      "file": "File:Shield of Kuntsevo District, Moscow.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Shield_of_Kuntsevo_District%2C_Moscow.svg",
+      "width": 512,
+      "height": 631,
+      "license": "Public domain"
+    },
+    {
+      "name": "Sokol",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Sokol (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Coat_of_Arms_of_Sokol_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 185,
+      "license": "Public domain"
+    },
+    {
+      "name": "Sokolinaya Gora",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Sokolinaya Gora (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Coat_of_Arms_of_Sokolinaya_Gora_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Sokolniki",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Sokolniki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_Arms_of_Sokolniki_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Solntsevo",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Solntsevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_Arms_of_Solntsevo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "South Medvedkovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of South Medvedkovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Coat_of_Arms_of_South_Medvedkovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "South Orekhovo-Borisovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of South Orekhovo-Borisovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coat_of_Arms_of_South_Orekhovo-Borisovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 205,
+      "license": "Public domain"
+    },
+    {
+      "name": "South Tushino",
+      "okrug": null,
+      "file": "File:Coat of Arms of South Tushino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coat_of_Arms_of_South_Tushino_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 221,
+      "license": "Public domain"
+    },
+    {
+      "name": "Strogino",
+      "okrug": "North-Western (SZAO)",
+      "file": "File:Coat of Arms of Strogino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coat_of_Arms_of_Strogino_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 209,
+      "license": "Public domain"
+    },
+    {
+      "name": "SVAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:SVAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/SVAO_district_of_Moscow_coa.png",
+      "width": 700,
+      "height": 585,
+      "license": "Public domain"
+    },
+    {
+      "name": "Sviblovo",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Sviblovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Coat_of_Arms_of_Sviblovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "SZAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:SZAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/SZAO_district_of_Moscow_coa.png",
+      "width": 2038,
+      "height": 1892,
+      "license": "Public domain"
+    },
+    {
+      "name": "Taganskoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Taganskoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_Arms_of_Taganskoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Tekstilshchiki",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Tekstilshchiki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coat_of_Arms_of_Tekstilshchiki_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Timiryazevsky",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Timiryazevsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Coat_of_Arms_of_Timiryazevsky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 201,
+      "license": "Public domain"
+    },
+    {
+      "name": "Troparevo-Nikulino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Troparevo-Nikulino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_Arms_of_Troparevo-Nikulino_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 187,
+      "license": "Public domain"
+    },
+    {
+      "name": "Tsaritsino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Tsaritsino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coat_of_Arms_of_Tsaritsino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 214,
+      "license": "Public domain"
+    },
+    {
+      "name": "Tverskoy",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Tverskoy (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Coat_of_Arms_of_Tverskoy_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 210,
+      "license": "Public domain"
+    },
+    {
+      "name": "Tyoply Stan",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Tyoply Stan (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coat_of_Arms_of_Tyoply_Stan_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 210,
+      "license": "Public domain"
+    },
+    {
+      "name": "UAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:UAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/UAO_district_of_Moscow_coa.png",
+      "width": 600,
+      "height": 440,
+      "license": "Public domain"
+    },
+    {
+      "name": "UVAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:UVAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/UVAO_district_of_Moscow_coa.png",
+      "width": 2000,
+      "height": 1867,
+      "license": "Public domain"
+    },
+    {
+      "name": "UZAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:UZAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/UZAO_district_of_Moscow_coa.png",
+      "width": 700,
+      "height": 529,
+      "license": "Public domain"
+    },
+    {
+      "name": "VAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:VAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/VAO_district_of_Moscow_coa.png",
+      "width": 600,
+      "height": 387,
+      "license": "Public domain"
+    },
+    {
+      "name": "Veshnyaki",
+      "okrug": "Eastern (VAO)",
+      "file": "File:Coat of Arms of Veshnyaki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coat_of_Arms_of_Veshnyaki_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Vnukovo",
+      "okrug": "Western (ZAO)",
+      "file": "File:Coat of Arms of Vnukovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Coat_of_Arms_of_Vnukovo_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 179,
+      "license": "Public domain"
+    },
+    {
+      "name": "Voikovsky",
+      "okrug": null,
+      "file": "File:Coat of Arms of Voikovsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Coat_of_Arms_of_Voikovsky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 212,
+      "license": "Public domain"
+    },
+    {
+      "name": "Vostochnoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Vostochnoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Coat_of_Arms_of_Vostochnoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Vostochnoye Degunino",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Vostochnoye Degunino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_Arms_of_Vostochnoye_Degunino_%28municipality_in_Moscow%29.png",
+      "width": 837,
+      "height": 1063,
+      "license": "Public domain"
+    },
+    {
+      "name": "Vostochnoye Izmailovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of Vostochnoye Izmailovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_Arms_of_Vostochnoye_Izmailovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 217,
+      "license": "Public domain"
+    },
+    {
+      "name": "Vykhino-Zhulebino",
+      "okrug": "South-Eastern (YuVAO)",
+      "file": "File:Coat of Arms of Vykhino-Zhulebino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_Arms_of_Vykhino-Zhulebino_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "West Degunino",
+      "okrug": null,
+      "file": "File:Coat of Arms of West Degunino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coat_of_Arms_of_West_Degunino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Yakimanka",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Yakimanka (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coat_of_Arms_of_Yakimanka_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 197,
+      "license": "Public domain"
+    },
+    {
+      "name": "Yaroslavsky",
+      "okrug": "North-Eastern (SVAO)",
+      "file": "File:Coat of Arms of Yaroslavsky (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Coat_of_Arms_of_Yaroslavsky_%28municipality_in_Moscow%29.png",
+      "width": 200,
+      "height": 191,
+      "license": "Public domain"
+    },
+    {
+      "name": "Yasenevo",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Yasenevo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_Arms_of_Yasenevo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 200,
+      "license": "Public domain"
+    },
+    {
+      "name": "YuzhnoeTushino gerb",
+      "okrug": null,
+      "file": "File:YuzhnoeTushino gerb.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/YuzhnoeTushino_gerb.png",
+      "width": 1732,
+      "height": 2435,
+      "license": "Public domain"
+    },
+    {
+      "name": "Yuzhnoportovoe",
+      "okrug": null,
+      "file": "File:Coat of Arms of Yuzhnoportovoe (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coat_of_Arms_of_Yuzhnoportovoe_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 215,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zamoskvorechye",
+      "okrug": "Central (TsAO)",
+      "file": "File:Coat of Arms of Zamoskvorechye (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Coat_of_Arms_of_Zamoskvorechye_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 217,
+      "license": "Public domain"
+    },
+    {
+      "name": "ZAO district of Moscow coa",
+      "okrug": null,
+      "file": "File:ZAO district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/ZAO_district_of_Moscow_coa.png",
+      "width": 600,
+      "height": 515,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zapadnoye Degunino",
+      "okrug": "Northern (SAO)",
+      "file": "File:Coat of Arms of Zapadnoye Degunino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Coat_of_Arms_of_Zapadnoye_Degunino_%28municipality_in_Moscow%29.png",
+      "width": 837,
+      "height": 1064,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zelenograd district of Moscow coa",
+      "okrug": null,
+      "file": "File:Zelenograd district of Moscow coa.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Zelenograd_district_of_Moscow_coa.png",
+      "width": 600,
+      "height": 467,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zelenograd-Kryukovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of Zelenograd-Kryukovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Coat_of_Arms_of_Zelenograd-Kryukovo_%28municipality_in_Moscow%29.png",
+      "width": 88,
+      "height": 110,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zelenograd-Matushkino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Zelenograd-Matushkino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_Arms_of_Zelenograd-Matushkino_%28municipality_in_Moscow%29.png",
+      "width": 88,
+      "height": 110,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zelenograd-Old Kryukovo",
+      "okrug": null,
+      "file": "File:Coat of Arms of Zelenograd-Old Kryukovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Coat_of_Arms_of_Zelenograd-Old_Kryukovo_%28municipality_in_Moscow%29.png",
+      "width": 88,
+      "height": 110,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zelenograd-Savelki",
+      "okrug": null,
+      "file": "File:Coat of Arms of Zelenograd-Savelki (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_Arms_of_Zelenograd-Savelki_%28municipality_in_Moscow%29.png",
+      "width": 88,
+      "height": 110,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zelenograd-Silino",
+      "okrug": null,
+      "file": "File:Coat of Arms of Zelenograd-Silino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_Arms_of_Zelenograd-Silino_%28municipality_in_Moscow%29.png",
+      "width": 88,
+      "height": 110,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zyablikovo",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Zyablikovo (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Coat_of_Arms_of_Zyablikovo_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 217,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zyablikovo",
+      "okrug": "Southern (YuAO)",
+      "file": "File:Coat of Arms of Zyablikovo (municipality in Moscow, 2018).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_Arms_of_Zyablikovo_%28municipality_in_Moscow%2C_2018%29.png",
+      "width": 819,
+      "height": 1024,
+      "license": "Public domain"
+    },
+    {
+      "name": "Zyuzino",
+      "okrug": "South-Western (YuZAO)",
+      "file": "File:Coat of Arms of Zyuzino (municipality in Moscow).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Coat_of_Arms_of_Zyuzino_%28municipality_in_Moscow%29.png",
+      "width": 174,
+      "height": 218,
+      "license": "Public domain"
+    },
+    {
+      "name": "Герб района Коптево 2023",
+      "okrug": null,
+      "file": "File:Герб района Коптево 2023.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%D0%93%D0%B5%D1%80%D0%B1_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BF%D1%82%D0%B5%D0%B2%D0%BE_2023.jpg",
+      "width": 932,
+      "height": 1166,
+      "license": "CC0"
+    },
+    {
+      "name": "Гербовый щит Басманного района",
+      "okrug": null,
+      "file": "File:Гербовый щит Басманного района.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%D0%93%D0%B5%D1%80%D0%B1%D0%BE%D0%B2%D1%8B%D0%B9_%D1%89%D0%B8%D1%82_%D0%91%D0%B0%D1%81%D0%BC%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0.png",
+      "width": 250,
+      "height": 251,
+      "license": "Public domain"
+    }
+  ]
+}
