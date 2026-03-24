@@ -264,13 +264,6 @@ body {
 .nav-dd-btn:hover { background: var(--fill); color: var(--text); }
 .nav-dd-btn:active { transform: scale(0.96); }
 .nav-dd-btn.open { background: var(--fill); color: var(--text); }
-.nav-dd-btn.active-filter {
-  background: var(--text);
-  color: var(--bg);
-  border-color: var(--text);
-}
-.nav-dd-btn.active-filter:hover,
-.nav-dd-btn.active-filter.open { opacity: 0.84; }
 
 #sort-btn   { min-width: 112px; }
 #region-btn { min-width: 128px; }
@@ -350,6 +343,7 @@ body {
   transition: background var(--transition);
   animation: cardIn 0.42s var(--ease-out) both;
 }
+.grid.no-anim .card { animation: none; }
 
 .card:hover { background: var(--fill); }
 .card:active { background: var(--fill-hover); transform: scale(0.99); }

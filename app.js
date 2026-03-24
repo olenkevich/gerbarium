@@ -71,7 +71,9 @@ function applyFilters() {
 
   filtered = base;
   rendered = 0;
-  document.getElementById('grid').innerHTML = '';
+  const grid = document.getElementById('grid');
+  grid.classList.toggle('no-anim', !!activeSort);
+  grid.innerHTML = '';
   renderNext();
   document.getElementById('search').placeholder = `Search ${filtered.length.toLocaleString()} coats of arms…`;
 }
@@ -86,7 +88,7 @@ function renderNext() {
     grid.innerHTML = `<div class="empty"><div class="empty-title">No results</div><div class="empty-sub">Try a different search</div></div>`;
     return;
   }
-  if (rendered === 0 && todaysPick && !searchQuery && activeCity === 'All') {
+  if (rendered === 0 && todaysPick && !searchQuery && activeCity === 'All' && activeRegion === 'all' && !activeSort) {
     const heroCard = renderHeroCard();
     grid.appendChild(heroCard);
     requestAnimationFrame(() => initHeroFlag(todaysPick.image_path || todaysPick.image_url));
@@ -104,7 +106,7 @@ function renderNext() {
       : esc(adminLabel);
     const card = document.createElement('div');
     card.className = 'card';
-    card.style.animationDelay = `${batchIdx * 32}ms`;
+    if (!activeSort) card.style.animationDelay = `${batchIdx * 32}ms`;
     card.innerHTML = `
       <div class="card-img">
         <img src="${esc(d.image_path || d.image_url)}" alt="${esc(d.name)}" loading="lazy">
