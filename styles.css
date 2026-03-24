@@ -900,13 +900,13 @@ body {
 
   /* Hero card: side-by-side like desktop, adapted for mobile */
   .hero-card { grid-column: 1 / -1; min-height: 220px; }
-  .hero-flag-wrap { flex: 0 0 44%; }
+  .hero-flag-wrap { flex: 0 0 40%; }
   .hero-card-info {
-    flex: 0 0 56%;
+    flex: 0 0 60%;
     min-width: 0;
     padding: var(--space-5) var(--space-4) var(--space-5) var(--space-3);
   }
-  .hero-card-name { font-size: 14px; font-variation-settings: 'opsz' 9; overflow-wrap: break-word; hyphens: none; }
+  .hero-card-name { font-size: 14px; font-variation-settings: 'opsz' 9; overflow-wrap: break-word; hyphens: auto; }
   .hero-card-sub  { font-size: var(--text-xs); }
 
   /* Modal: full-bleed bottom sheet */
