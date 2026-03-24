@@ -849,7 +849,7 @@ function openModal(d) {
     autonomous_okrug: 'Autonomous Okrug', autonomous_oblast: 'Autonomous Oblast',
     country: 'Country',
   }[d.admin_type] ?? d.admin_type;
-  const fullName = `${d.name} ${adminLabel}`;
+  const fullName = d.name.toLowerCase().endsWith(adminLabel.toLowerCase()) ? d.name : `${d.name} ${adminLabel}`;
   const showRegion = d.parent !== d.country;
 
   // Desktop info panel
