@@ -857,7 +857,12 @@ function openModal(d) {
     regionRow +
     `<div class="modal-row"><div class="modal-label">Country</div><div class="modal-value">${esc(d.country)}</div></div>`;
 
-  const wikiSlug = encodeURIComponent(d.admin_type === 'rayon' ? `${d.name} rayon, ${d.parent}` : d.name);
+  const wikiSlug = encodeURIComponent(
+    d.admin_type === 'rayon'           ? `${d.name} rayon, ${d.parent}` :
+    d.admin_type === 'city_district'   ? `${d.name}, ${d.parent}` :
+    d.admin_type === 'municipal_okrug' ? `${d.name}, ${d.parent}` :
+    d.name
+  );
   const wikiUrl = `https://en.wikipedia.org/wiki/${wikiSlug}`;
   document.getElementById('modal-wiki').href = wikiUrl;
 

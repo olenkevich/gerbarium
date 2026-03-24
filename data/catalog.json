@@ -1252,7 +1252,7 @@
   {
     "name": "Avtozavodsky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Coat_of_Arms_of_Avtozavodsky_district.svg",
@@ -1262,7 +1262,7 @@
   {
     "name": "Kanavinsky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Coat_of_Arms_of_Kanavinsky_district.svg",
@@ -1272,7 +1272,7 @@
   {
     "name": "Leninsky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Coat_of_Arms_of_Leninsky_district.svg",
@@ -1282,7 +1282,7 @@
   {
     "name": "Moskovsky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Coat_of_Arms_of_Moskovsky_district.svg",
@@ -1292,7 +1292,7 @@
   {
     "name": "Nizhegorodsky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Coat_of_Arms_of_Nizhegorodsky_district.svg",
@@ -1302,7 +1302,7 @@
   {
     "name": "Prioksky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coat_of_Arms_of_Prioksky_district.svg",
@@ -1312,7 +1312,7 @@
   {
     "name": "Sormovsky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coat_of_Arms_of_Sormovsky_district.svg",
@@ -1322,7 +1322,7 @@
   {
     "name": "Sovetsky District",
     "admin_type": "city_district",
-    "parent": "Nizhny Novgorod Oblast",
+    "parent": "Nizhny Novgorod",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Coat_of_Arms_of_Sovetsky_district_of_Nizhny_Novgorod.svg",
@@ -1620,8 +1620,8 @@
     "image_path": "data/images/yegoryevsky_rayon.png"
   },
   {
-    "name": "Agryz Rayon",
-    "admin_type": "city",
+    "name": "Agryz",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1630,8 +1630,8 @@
     "image_path": "data/images/agryz_rayon.png"
   },
   {
-    "name": "Aksubaevsky Rayon",
-    "admin_type": "city",
+    "name": "Aksubaevsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1640,8 +1640,8 @@
     "image_path": "data/images/aksubaevsky_rayon.gif"
   },
   {
-    "name": "Aktanyshsky Rayon",
-    "admin_type": "city",
+    "name": "Aktanyshsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1650,8 +1650,8 @@
     "image_path": "data/images/aktanyshsky_rayon.gif"
   },
   {
-    "name": "Alekseevsky Rayon",
-    "admin_type": "city",
+    "name": "Alekseevsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1660,8 +1660,8 @@
     "image_path": "data/images/alekseevsky_rayon.gif"
   },
   {
-    "name": "Alkeevsky Rayon",
-    "admin_type": "city",
+    "name": "Alkeevsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1670,8 +1670,8 @@
     "image_path": "data/images/alkeevsky_rayon.gif"
   },
   {
-    "name": "Apastovsky Rayon",
-    "admin_type": "city",
+    "name": "Apastovsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1680,8 +1680,8 @@
     "image_path": "data/images/apastovsky_rayon.gif"
   },
   {
-    "name": "Atninsky Rayon",
-    "admin_type": "city",
+    "name": "Atninsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1690,8 +1690,8 @@
     "image_path": "data/images/atninsky_rayon.png"
   },
   {
-    "name": "Baltasinsky Rayon",
-    "admin_type": "city",
+    "name": "Baltasinsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1700,8 +1700,8 @@
     "image_path": "data/images/baltasinsky_rayon.gif"
   },
   {
-    "name": "Bugulminsky Rayon",
-    "admin_type": "city",
+    "name": "Bugulminsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1710,8 +1710,8 @@
     "image_path": "data/images/bugulminsky_rayon.gif"
   },
   {
-    "name": "Drozhzhanovsky Rayon",
-    "admin_type": "city",
+    "name": "Drozhzhanovsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1720,8 +1720,8 @@
     "image_path": "data/images/drozhzhanovsky_rayon.png"
   },
   {
-    "name": "Elabuzsky Rayon",
-    "admin_type": "city",
+    "name": "Elabuzsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1730,8 +1730,8 @@
     "image_path": "data/images/elabuzsky_rayon.gif"
   },
   {
-    "name": "Kaibicky Rayon",
-    "admin_type": "city",
+    "name": "Kaibicky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1740,8 +1740,8 @@
     "image_path": "data/images/kaibicky_rayon.gif"
   },
   {
-    "name": "Laishev Rayon",
-    "admin_type": "city",
+    "name": "Laishev",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1750,8 +1750,8 @@
     "image_path": "data/images/laishev_rayon.png"
   },
   {
-    "name": "Mamadysh Rayon",
-    "admin_type": "city",
+    "name": "Mamadysh",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1760,8 +1760,8 @@
     "image_path": "data/images/mamadysh_rayon.png"
   },
   {
-    "name": "Menzelinsk Rayon",
-    "admin_type": "city",
+    "name": "Menzelinsk",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1770,8 +1770,8 @@
     "image_path": "data/images/menzelinsk_rayon.png"
   },
   {
-    "name": "Muslyumovsky Rayon",
-    "admin_type": "city",
+    "name": "Muslyumovsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1780,8 +1780,8 @@
     "image_path": "data/images/muslyumovsky_rayon.png"
   },
   {
-    "name": "Nizhnekamsk Rayon",
-    "admin_type": "city",
+    "name": "Nizhnekamsk",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1790,8 +1790,8 @@
     "image_path": "data/images/nizhnekamsk_rayon.png"
   },
   {
-    "name": "Novosheshminsky Rayon",
-    "admin_type": "city",
+    "name": "Novosheshminsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1800,8 +1800,8 @@
     "image_path": "data/images/novosheshminsky_rayon.gif"
   },
   {
-    "name": "Pestrechinsky Rayon",
-    "admin_type": "city",
+    "name": "Pestrechinsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1810,8 +1810,8 @@
     "image_path": "data/images/pestrechinsky_rayon.gif"
   },
   {
-    "name": "Saby Rayon",
-    "admin_type": "city",
+    "name": "Saby",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1820,8 +1820,8 @@
     "image_path": "data/images/saby_rayon.png"
   },
   {
-    "name": "Spassky Rayon",
-    "admin_type": "city",
+    "name": "Spassky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1830,8 +1830,8 @@
     "image_path": "data/images/spassky_rayon.png"
   },
   {
-    "name": "Tukaevsky Rayon",
-    "admin_type": "city",
+    "name": "Tukaevsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1840,8 +1840,8 @@
     "image_path": "data/images/tukaevsky_rayon.gif"
   },
   {
-    "name": "Tuljachensky Rayon",
-    "admin_type": "city",
+    "name": "Tuljachensky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1850,8 +1850,8 @@
     "image_path": "data/images/tuljachensky_rayon.gif"
   },
   {
-    "name": "Verhneuslonsky Rayon",
-    "admin_type": "city",
+    "name": "Verhneuslonsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1860,8 +1860,8 @@
     "image_path": "data/images/verhneuslonsky_rayon.gif"
   },
   {
-    "name": "Visokogorsky Rayon",
-    "admin_type": "city",
+    "name": "Visokogorsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -1870,8 +1870,8 @@
     "image_path": "data/images/visokogorsky_rayon.gif"
   },
   {
-    "name": "Zainsky Rayon",
-    "admin_type": "city",
+    "name": "Zainsky",
+    "admin_type": "rayon",
     "parent": "Republic of Tatarstan",
     "parent_type": "republic",
     "country": "Russia",
@@ -2040,8 +2040,8 @@
     "image_path": "data/images/zelenodolsk.png"
   },
   {
-    "name": "Agapovsky Rayon",
-    "admin_type": "city",
+    "name": "Agapovsky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2050,8 +2050,8 @@
     "image_path": "data/images/agapovsky_rayon.png"
   },
   {
-    "name": "Argayash Rayon",
-    "admin_type": "city",
+    "name": "Argayash",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2060,8 +2060,8 @@
     "image_path": "data/images/argayash_rayon.png"
   },
   {
-    "name": "Bredy Rayon",
-    "admin_type": "city",
+    "name": "Bredy",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2070,8 +2070,8 @@
     "image_path": "data/images/bredy_rayon.png"
   },
   {
-    "name": "Chebarkul Rayon",
-    "admin_type": "city",
+    "name": "Chebarkul",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2080,8 +2080,8 @@
     "image_path": "data/images/chebarkul_rayon.png"
   },
   {
-    "name": "Chesmensky Rayon",
-    "admin_type": "city",
+    "name": "Chesmensky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2090,8 +2090,8 @@
     "image_path": "data/images/chesmensky_rayon.png"
   },
   {
-    "name": "Etkulsky Rayon",
-    "admin_type": "city",
+    "name": "Etkulsky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2100,8 +2100,8 @@
     "image_path": "data/images/etkulsky_rayon.png"
   },
   {
-    "name": "Kizilsky Rayon",
-    "admin_type": "city",
+    "name": "Kizilsky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2110,8 +2110,8 @@
     "image_path": "data/images/kizilsky_rayon.png"
   },
   {
-    "name": "Krasnoarmeisky Rayon",
-    "admin_type": "city",
+    "name": "Krasnoarmeisky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2120,8 +2120,8 @@
     "image_path": "data/images/krasnoarmeisky_rayon.png"
   },
   {
-    "name": "Krasnoarmeysky Rayon",
-    "admin_type": "city",
+    "name": "Krasnoarmeysky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2130,8 +2130,8 @@
     "image_path": "data/images/krasnoarmeysky_rayon.png"
   },
   {
-    "name": "Kunashak Rayon",
-    "admin_type": "city",
+    "name": "Kunashak",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2140,8 +2140,8 @@
     "image_path": "data/images/kunashak_rayon.png"
   },
   {
-    "name": "Nagaibaksky Rayon",
-    "admin_type": "city",
+    "name": "Nagaibaksky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2150,8 +2150,8 @@
     "image_path": "data/images/nagaibaksky_rayon.png"
   },
   {
-    "name": "Nyazepetrovsky Rayon",
-    "admin_type": "city",
+    "name": "Nyazepetrovsky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2160,8 +2160,8 @@
     "image_path": "data/images/nyazepetrovsky_rayon.png"
   },
   {
-    "name": "Oktyabrsky Rayon",
-    "admin_type": "city",
+    "name": "Oktyabrsky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2170,8 +2170,8 @@
     "image_path": "data/images/oktyabrsky_rayon.png"
   },
   {
-    "name": "Sosnovsky Rayon",
-    "admin_type": "city",
+    "name": "Sosnovsky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2180,8 +2180,8 @@
     "image_path": "data/images/sosnovsky_rayon.png"
   },
   {
-    "name": "Troitsk Rayon",
-    "admin_type": "city",
+    "name": "Troitsk",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2190,8 +2190,8 @@
     "image_path": "data/images/troitsk_rayon.png"
   },
   {
-    "name": "Uisky Rayon",
-    "admin_type": "city",
+    "name": "Uisky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2200,8 +2200,8 @@
     "image_path": "data/images/uisky_rayon.png"
   },
   {
-    "name": "Uvelsky Rayon",
-    "admin_type": "city",
+    "name": "Uvelsky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2210,8 +2210,8 @@
     "image_path": "data/images/uvelsky_rayon.png"
   },
   {
-    "name": "Varnensky Rayon",
-    "admin_type": "city",
+    "name": "Varnensky",
+    "admin_type": "rayon",
     "parent": "Chelyabinsk Oblast",
     "parent_type": "oblast",
     "country": "Russia",
@@ -2492,7 +2492,7 @@
   {
     "name": "53",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Coat_of_Arms_of_53_okrug_%28municipality_in_St_Petersburg%29.png",
@@ -2502,7 +2502,7 @@
   {
     "name": "57",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_Arms_of_57_okrug_%28municipality_in_St_Petersburg%29.png",
@@ -2512,7 +2512,7 @@
   {
     "name": "58",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_Arms_of_58_okrug_%28municipality_in_St_Petersburg%29.png",
@@ -2522,7 +2522,7 @@
   {
     "name": "7",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_Arms_of_7_okrug_%28municipality_in_St_Petersburg%29.png",
@@ -2532,7 +2532,7 @@
   {
     "name": "70",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Coat_of_Arms_of_70_okrug_%28municipality_in_St_Petersburg%29.png",
@@ -2542,7 +2542,7 @@
   {
     "name": "Alexandrovskaya",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_Arms_of_Alexandrovskaya_%28municipality_in_St_Petersburg%29.png",
@@ -2552,7 +2552,7 @@
   {
     "name": "Avtovo",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Coat_of_Arms_of_Avtovo_%28municipality_in_St_Petersburg%29.png",
@@ -2562,7 +2562,7 @@
   {
     "name": "Beloostrov",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Coat_of_Arms_of_Beloostrov_%28municipality_in_St_Petersburg%29.png",
@@ -2572,7 +2572,7 @@
   {
     "name": "Chiornaia Rechka",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Coat_of_Arms_of_Chiornaia_Rechka_%28municipality_in_St_Petersburg%29.png",
@@ -2582,7 +2582,7 @@
   {
     "name": "Chkalovskoe",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Coat_of_Arms_of_Chkalovskoe_%28municipality_in_St_Petersburg%29.png",
@@ -2592,7 +2592,7 @@
   {
     "name": "Gorelovo",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Coat_of_Arms_of_Gorelovo_%28municipality_in_St_Petersburg%29.png",
@@ -2602,7 +2602,7 @@
   {
     "name": "Grazhdanka",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_Arms_of_Grazhdanka_%28municipality_in_St_Petersburg%29.png",
@@ -2612,7 +2612,7 @@
   {
     "name": "Konstantinovskoe",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Coat_of_Arms_of_Konstantinovskoe_%28municipality_in_St_Petersburg%29.png",
@@ -2622,7 +2622,7 @@
   {
     "name": "Krasnoe Selo",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Coat_of_Arms_of_Krasnoe_Selo_%28municipality_in_St_Petersburg%29.jpg",
@@ -2632,7 +2632,7 @@
   {
     "name": "Lakhta-Olgino",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Coat_of_Arms_of_Lakhta-Olgino_%28municipality_in_St_Petersburg%29.png",
@@ -2642,7 +2642,7 @@
   {
     "name": "Moskovskaja zastava",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Coat_of_Arms_of_Moskovskaja_zastava_%28municipality_in_St_Petersburg%29.png",
@@ -2652,7 +2652,7 @@
   {
     "name": "Narvsky",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Coat_of_Arms_of_Narvsky_%28municipality_in_St_Petersburg%29.png",
@@ -2662,7 +2662,7 @@
   {
     "name": "Okkervil",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coat_of_Arms_of_Okkervil_%28municipality_in_St_Petersburg%29.png",
@@ -2672,7 +2672,7 @@
   {
     "name": "Ozero Dolgoe",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_Arms_of_Ozero_Dolgoe_%28municipality_in_St_Petersburg%29.png",
@@ -2682,7 +2682,7 @@
   {
     "name": "Petro-Slavyanka",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coat_of_Arms_of_Petro-Slavyanka_%28municipality_in_St_Petersburg%29.png",
@@ -2692,7 +2692,7 @@
   {
     "name": "Pontonny",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Coat_of_Arms_of_Pontonny_%28municipality_in_St_Petersburg%29.png",
@@ -2702,7 +2702,7 @@
   {
     "name": "Porohovye",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Coat_of_Arms_of_Porohovye_%28municipality_in_St_Petersburg%29.png",
@@ -2712,7 +2712,7 @@
   {
     "name": "Repino",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Coat_of_Arms_of_Repino_%28municipality_in_St_Petersburg%29.png",
@@ -2722,7 +2722,7 @@
   {
     "name": "Tjarlevo",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Coat_of_Arms_of_Tjarlevo_%28municipality_in_St_Petersburg%29.png",
@@ -2732,7 +2732,7 @@
   {
     "name": "Ulianka",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Coat_of_Arms_of_Ulianka_%28municipality_in_St_Petersburg%29.png",
@@ -2742,7 +2742,7 @@
   {
     "name": "Ust Izora",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Coat_of_Arms_of_Ust_Izora_%28municipality_in_St_Petersburg%29.png",
@@ -2752,7 +2752,7 @@
   {
     "name": "Volkovskoe",
     "admin_type": "municipal_okrug",
-    "parent": "Federal City",
+    "parent": "Saint Petersburg",
     "parent_type": "oblast",
     "country": "Russia",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Coat_of_Arms_of_Volkovskoe_%28municipality_in_St_Petersburg%29.png",
