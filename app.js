@@ -21,6 +21,8 @@ fetch('data/catalog.json')
   .then(r => r.json())
   .then(data => {
     allData = data;
+    const countEl = document.getElementById('about-count');
+    if (countEl) countEl.textContent = data.length.toLocaleString();
     initHero(data);
     applyFilters();
     // Deep-link: open modal if URL has a path like /Bogorodskoye
@@ -922,6 +924,9 @@ function openModal(d) {
   history.pushState({ name: d.name }, '', '/' + encodeURIComponent(d.name));
   document.getElementById('backdrop').classList.add('open');
   document.body.style.overflow = 'hidden';
+  const mb = document.querySelector('.modal-body');
+  mb.classList.add('loading');
+  setTimeout(() => mb.classList.remove('loading'), 700);
   document.getElementById('modal-map').classList.remove('map-loaded');
   setTimeout(() => initMap(d.name, d.parent, d.country), 320);
 
@@ -1011,6 +1016,8 @@ const aboutBtn = document.getElementById('about-btn');
 const aboutDropdown = document.getElementById('about-dropdown');
 aboutBtn.addEventListener('click', e => {
   e.stopPropagation();
+  document.querySelectorAll('.nav-dd').forEach(d => d.classList.remove('open'));
+  document.querySelectorAll('.nav-dd-btn').forEach(b => b.classList.remove('open'));
   aboutBtn.classList.toggle('open');
   aboutDropdown.classList.toggle('open');
 });
@@ -1029,9 +1036,11 @@ function setupDropdown(btnId, ddId, onSelect) {
   const dd  = document.getElementById(ddId);
   btn.addEventListener('click', e => {
     e.stopPropagation();
-    // Close sibling dropdowns
+    // Close sibling dropdowns and about
     document.querySelectorAll('.nav-dd').forEach(d => { if (d !== dd) d.classList.remove('open'); });
     document.querySelectorAll('.nav-dd-btn').forEach(b => { if (b !== btn) b.classList.remove('open'); });
+    document.getElementById('about-btn').classList.remove('open');
+    document.getElementById('about-dropdown').classList.remove('open');
     btn.classList.toggle('open');
     dd.classList.toggle('open');
   });

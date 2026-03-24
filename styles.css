@@ -192,6 +192,7 @@ body {
   letter-spacing: var(--tracking-tight);
   white-space: nowrap;
   flex-shrink: 0;
+  margin-right: var(--space-3);
 }
 
 .nav-sep {
@@ -566,6 +567,7 @@ body {
   overflow-y: auto;
   scrollbar-gutter: stable;
 }
+.modal-body.loading { overflow-y: hidden; }
 
 .modal-body-inner {
   padding: 28px var(--space-6) var(--space-6);
@@ -761,19 +763,21 @@ body {
 
 .nav-about-dropdown {
   position: absolute;
-  top: calc(100% + var(--space-2));
+  top: calc(100% + 6px);
   right: 0;
-  width: 256px;
-  background: var(--bg);
+  width: 260px;
+  background: var(--surface-dropdown);
+  backdrop-filter: var(--glass-dropdown);
+  -webkit-backdrop-filter: var(--glass-dropdown);
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-dropdown);
-  padding: 18px 18px 14px;
+  padding: var(--space-4);
   z-index: var(--z-dropdown);
   opacity: 0;
   transform: translateY(-6px) scale(0.96);
   transform-origin: top right;
   pointer-events: none;
-  transition: opacity 0.2s var(--ease-out), transform 0.2s var(--ease-out);
+  transition: opacity 0.16s var(--ease-out), transform 0.16s var(--ease-out);
 }
 
 .nav-about-dropdown.open {
@@ -788,7 +792,7 @@ body {
   font-weight: var(--weight-bold);
   color: var(--text);
   letter-spacing: var(--tracking-tight);
-  margin-bottom: 5px;
+  margin-bottom: var(--space-1);
 }
 
 .about-desc {
@@ -800,7 +804,7 @@ body {
 .about-sep {
   height: 0.5px;
   background: var(--border-soft);
-  margin: 13px 0;
+  margin: var(--space-3) 0;
 }
 
 .about-link {
