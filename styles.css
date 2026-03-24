@@ -1103,12 +1103,12 @@ body {
   flex-shrink: 0;
 }
 .like-count {
-  min-width: 28px;
+  min-width: 22px;
   text-align: center;
   font-variant-numeric: tabular-nums;
   color: var(--text-soft);
   transition: color var(--duration-quick);
-  padding: 0 6px;
+  padding: 0 8px 0 6px;
 }
 .modal-like-btn:hover .like-icon,
 .modal-like-btn:hover .like-count { color: var(--text); }
@@ -1137,7 +1137,7 @@ body {
 /* Left half: sky + flag canvas */
 .hero-flag-wrap {
   position: relative;
-  flex: 0 0 60%;
+  flex: 0 0 56%;
   overflow: hidden;
 }
 .hero-flag-wrap canvas {
@@ -1153,10 +1153,10 @@ body {
 
 /* Right half: transparent, text centered over sky */
 .hero-card-info {
-  flex: 0 0 40%;
+  flex: 0 0 44%;
   background: transparent;
   z-index: 2;
-  padding: var(--space-7) var(--space-8) var(--space-7) var(--space-7);
+  padding: var(--space-7) 64px var(--space-7) var(--space-6);
   display: flex;
   flex-direction: column;
   justify-content: center;

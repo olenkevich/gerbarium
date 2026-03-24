@@ -57,7 +57,7 @@ function applyFilters() {
   let base = allData.filter(d => {
     const cityMatch = activeCity === 'All' || d.parent === activeCity;
     const qMatch = !searchQuery || d.name.toLowerCase().includes(searchQuery) || d.parent.toLowerCase().includes(searchQuery);
-    const notHero = !showHero || !todaysPick || d.name !== todaysPick.name;
+    const notHero = !todaysPick || d.name !== todaysPick.name;
     return cityMatch && qMatch && notHero && regionMatch(d);
   });
 
@@ -765,6 +765,11 @@ function renderHeroCard() {
 }
 
 // ── LIKES ──
+function formatLikes(n) {
+  if (n >= 10000) return Math.floor(n / 1000) + 'k';
+  if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+  return String(n);
+}
 function getLikesData() {
   try { return JSON.parse(localStorage.getItem('gerbarium_likes') || '{}'); } catch { return {}; }
 }
@@ -793,7 +798,7 @@ function syncCardLike(btn, name) {
   const count = getLikeCount(name);
   btn.classList.toggle('liked', liked);
   const countEl = btn.querySelector('.card-like-count');
-  if (countEl) countEl.textContent = count > 0 ? count : '';
+  if (countEl) countEl.textContent = count > 0 ? formatLikes(count) : '';
 }
 function syncModalLike(name) {
   const liked = hasLiked(name);
@@ -803,12 +808,12 @@ function syncModalLike(name) {
   if (btn) {
     btn.classList.toggle('liked', liked);
     const countEl = document.getElementById('modal-like-count');
-    if (countEl) countEl.textContent = count;
+    if (countEl) countEl.textContent = formatLikes(count);
   }
   if (mBtn) {
     mBtn.classList.toggle('liked', liked);
     const mCountEl = document.getElementById('mobile-like-count');
-    if (mCountEl) mCountEl.textContent = count;
+    if (mCountEl) mCountEl.textContent = formatLikes(count);
   }
 }
 
