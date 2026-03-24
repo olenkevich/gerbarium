@@ -186,7 +186,7 @@ body {
 
 .nav-title {
   font-family: var(--font-display);
-  font-size: 25px;
+  font-size: 28px;
   font-weight: var(--weight-semibold);
   color: var(--text);
   letter-spacing: var(--tracking-tight);
@@ -640,7 +640,7 @@ body {
 }
 
 .modal-footer .btn-primary { flex: 1; }
-.modal-footer .modal-like-btn { flex: 0 0 auto; }
+.modal-footer .modal-like-btn { width: 100px; flex-shrink: 0; }
 
 /* ── BUTTONS ── */
 .btn {
@@ -783,52 +783,19 @@ body {
   pointer-events: auto;
 }
 
-.about-title {
-  font-family: var(--font-display);
-  font-size: var(--text-base);
-  font-weight: var(--weight-bold);
-  color: var(--text);
-  letter-spacing: var(--tracking-tight);
-  margin-bottom: var(--space-1);
-}
-
-.about-desc {
+.about-desc,
+.about-source {
   font-size: var(--text-sm);
   color: var(--text-soft);
   line-height: var(--leading-normal);
 }
+
+.about-source { color: var(--text-faint); }
 
 .about-sep {
   height: 0.5px;
   background: var(--border-soft);
   margin: var(--space-3) 0;
-}
-
-.about-meta {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-2);
-}
-
-.about-meta-row {
-  display: grid;
-  grid-template-columns: 52px 1fr;
-  gap: var(--space-2);
-  align-items: baseline;
-}
-
-.about-meta-label {
-  font-size: var(--text-2xs);
-  font-weight: var(--weight-semibold);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--text-faint);
-}
-
-.about-meta-val {
-  font-size: var(--text-sm);
-  color: var(--text-soft);
-  line-height: var(--leading-normal);
 }
 
 .about-footer {
@@ -842,10 +809,7 @@ body {
   font-size: var(--text-sm);
   color: var(--text-faint);
 }
-.about-made a {
-  color: var(--text-soft);
-  text-decoration: none;
-}
+.about-made a { color: var(--text-soft); text-decoration: none; }
 .about-made a:hover { color: var(--text); }
 
 .about-contact {
@@ -907,23 +871,28 @@ body {
   .card-sub  { font-size: var(--text-2xs); }
   .card-info { text-align: center; }
 
-  /* Nav — compact row: [Title flex] [Sort▾] [Region▾] [i] + search row below */
-  .nav { padding: 10px 14px 10px; }
-  .nav-top { flex-wrap: wrap; gap: 6px; margin-bottom: 8px; align-items: center; }
-  .nav-title { flex: 1; font-size: 20px; min-width: 0; order: 0; }
+  /* Nav — row 1: [Logo] [Sort▾] [Region▾] [ⓘ]; row 2: [Search] */
+  .nav { padding: 12px 14px; }
+  .nav-top { flex-wrap: wrap; gap: 8px; margin-bottom: 0; align-items: center; }
+  .nav-title { flex: 1; font-size: 22px; min-width: 0; order: 0; }
   .nav-sep { display: none; }
   .nav-dd-wrap { order: 1; flex-shrink: 0; }
   .nav-about-wrap { order: 2; flex-shrink: 0; }
-  /* Search full-width below */
-  .search-wrap { order: 10; flex: 0 0 100%; margin-top: 0; }
-  #search { height: 36px; font-size: var(--text-base); }
-  /* Compact dropdown triggers */
-  .nav-dd-btn { height: 30px; padding: 0 9px; font-size: var(--text-2xs); gap: 3px; border-radius: 8px; }
+  /* Search full-width second row */
+  .search-wrap { order: 10; flex: 0 0 100%; margin-top: 2px; }
+  #search { height: 38px; font-size: var(--text-base); }
+  /* Dropdown triggers */
+  .nav-dd-btn { height: 32px; padding: 0 10px; font-size: var(--text-xs); gap: 4px; border-radius: 8px; }
   .nav-dd-chevron { width: 8px; height: 5px; }
-  /* Larger touch targets inside the dropdown menus */
-  .nav-dd-item { padding: 13px 14px; }
-  /* Region dd: right-aligned so it doesn't overflow viewport */
+  /* Dropdown items — comfortable touch targets */
+  .nav-dd-item { padding: 12px 14px; font-size: var(--text-base); }
+  /* Region dd: right-aligned */
   #region-dd { left: auto; right: 0; transform-origin: top right; }
+  /* About button: icon only, no text */
+  .about-btn-text { display: none; }
+  .nav-about-btn { width: 32px; height: 32px; padding: 0; justify-content: center; gap: 0; border-radius: 8px; }
+  /* About dropdown: constrained to viewport width */
+  .nav-about-dropdown { width: min(280px, calc(100vw - 28px)); }
 
   /* Modal: full-bleed bottom sheet */
   .modal-backdrop { align-items: flex-end; padding: 0; }
@@ -1090,7 +1059,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
+  width: 32px;
   flex-shrink: 0;
   color: var(--text-faint);
   transition: color var(--duration-quick);
@@ -1103,12 +1072,12 @@ body {
   flex-shrink: 0;
 }
 .like-count {
-  min-width: 22px;
+  flex: 1;
   text-align: center;
   font-variant-numeric: tabular-nums;
   color: var(--text-soft);
   transition: color var(--duration-quick);
-  padding: 0 8px 0 6px;
+  padding: 0 4px;
 }
 .modal-like-btn:hover .like-icon,
 .modal-like-btn:hover .like-count { color: var(--text); }

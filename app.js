@@ -75,7 +75,8 @@ function applyFilters() {
   grid.classList.toggle('no-anim', !!activeSort);
   grid.innerHTML = '';
   renderNext();
-  document.getElementById('search').placeholder = `Search ${filtered.length.toLocaleString()} coats of arms…`;
+  const displayCount = (!searchQuery && activeCity === 'All' && activeRegion === 'all') ? allData.length : filtered.length;
+  document.getElementById('search').placeholder = `Search ${displayCount.toLocaleString()} coats of arms…`;
 }
 
 const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
