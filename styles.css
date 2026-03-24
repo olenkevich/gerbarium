@@ -897,18 +897,15 @@ body {
   #sort-btn   { min-width: 0; }
   #region-btn { min-width: 0; }
 
-  /* Hero card: full-bleed image, text overlaid at bottom */
-  .hero-card { grid-column: 1 / -1; flex-direction: column; min-height: 400px; position: relative; }
-  .hero-flag-wrap { flex: 1; width: 100%; }
+  /* Hero card: side-by-side like desktop, adapted for mobile */
+  .hero-card { grid-column: 1 / -1; min-height: 220px; }
+  .hero-flag-wrap { flex: 0 0 55%; }
   .hero-card-info {
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    z-index: 3;
-    padding: 96px var(--space-6) var(--space-6);
-    background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.62) 45%);
+    flex: 0 0 45%;
+    padding: var(--space-5) var(--space-5) var(--space-5) var(--space-4);
   }
-  .hero-card-name { font-size: 34px; }
-  .hero-card-sub  { font-size: var(--text-base); margin-top: var(--space-1); }
+  .hero-card-name { font-size: 22px; }
+  .hero-card-sub  { font-size: var(--text-xs); }
 
   /* Modal: full-bleed bottom sheet */
   .modal-backdrop { align-items: flex-end; padding: 0; }
