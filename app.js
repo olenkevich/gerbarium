@@ -863,25 +863,16 @@ function openModal(d) {
     regionRow +
     `<div class="modal-row"><div class="modal-label">Country</div><div class="modal-value">${esc(d.country)}</div></div>`;
 
-  const wikiSlug = encodeURIComponent(
-    d.admin_type === 'rayon'           ? `${d.name} rayon, ${d.parent}` :
-    d.admin_type === 'city_district'   ? `${d.name}, ${d.parent}` :
-    d.admin_type === 'municipal_okrug' ? `${d.name}, ${d.parent}` :
-    d.name
-  );
-  const wikiUrl = `https://en.wikipedia.org/wiki/${wikiSlug}`;
-  document.getElementById('modal-wiki').href = wikiUrl;
 
   // Desktop download + copy
   const dlBtn = document.getElementById('modal-download');
   dlBtn.href = d.image_path || d.image_url;
   dlBtn.download = d.name.toLowerCase().replace(/\s+/g, '_') + '.' + (d.image_format || 'png');
   const copyBtn = document.getElementById('modal-copy');
-  const copyLabel = document.getElementById('copy-label');
   copyBtn.onclick = () => {
     navigator.clipboard.writeText(location.href).then(() => {
-      copyBtn.classList.add('success'); copyLabel.textContent = 'Copied!';
-      setTimeout(() => { copyBtn.classList.remove('success'); copyLabel.textContent = 'Copy URL'; }, 2000);
+      copyBtn.classList.add('success');
+      setTimeout(() => copyBtn.classList.remove('success'), 2000);
     });
   };
 
@@ -891,7 +882,6 @@ function openModal(d) {
   const mDl = document.getElementById('mobile-download');
   mDl.href = d.image_path || d.image_url;
   mDl.download = dlBtn.download;
-  document.getElementById('mobile-wiki').href = wikiUrl;
   const mobileCopy = document.getElementById('mobile-copy');
   if (mobileCopy) mobileCopy.onclick = () => {
     navigator.clipboard.writeText(location.href).then(() => {
@@ -903,8 +893,6 @@ function openModal(d) {
   // Mobile overlay more menu
   const mDlMenu = document.getElementById('mobile-download-menu');
   if (mDlMenu) { mDlMenu.href = d.image_path || d.image_url; mDlMenu.download = dlBtn.download; }
-  const mWikiMenu = document.getElementById('mobile-wiki-menu');
-  if (mWikiMenu) mWikiMenu.href = wikiUrl;
   const moreBtn = document.getElementById('mobile-more');
   const moreMenu = document.getElementById('mobile-more-menu');
   if (moreBtn && moreMenu) moreBtn.onclick = (e) => {

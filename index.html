@@ -98,11 +98,6 @@
           <svg width="15" height="15" viewBox="0 0 12 12" fill="none"><path d="M6 1v7M3 5.5l3 3 3-3M1 10h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
           Download PNG
         </a>
-        <div class="mobile-more-sep"></div>
-        <a class="mobile-more-item" id="mobile-wiki-menu" href="#" target="_blank" rel="noopener">
-          <svg width="13" height="13" viewBox="0 0 10 10" fill="none"><path d="M2 8L8 2M8 2H4M8 2v4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          Wikipedia
-        </a>
       </div>
       <div class="modal-mobile-eyebrow" id="mobile-eyebrow"></div>
     </div>
@@ -145,14 +140,9 @@
             <span class="like-sep"></span>
             <span id="mobile-like-count" class="like-count">0</span>
           </button>
-          <button class="btn btn-secondary" id="mobile-copy">
+          <button class="btn btn-secondary btn-icon" id="mobile-copy" aria-label="Copy URL">
             <svg width="15" height="15" viewBox="0 0 12 12" fill="none"><rect x="4" y="4" width="7" height="7" rx="1.5" stroke="currentColor" stroke-width="1.4"/><path d="M8 4V2.5A1.5 1.5 0 0 0 6.5 1H2.5A1.5 1.5 0 0 0 1 2.5v4A1.5 1.5 0 0 0 2.5 8H4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
-            Copy URL
           </button>
-          <a class="btn btn-secondary" id="mobile-wiki" href="#" target="_blank" rel="noopener">
-            <svg width="13" height="13" viewBox="0 0 10 10" fill="none"><path d="M2 8L8 2M8 2H4M8 2v4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-            Wiki
-          </a>
         </div>
       </div>
     </div>
@@ -164,25 +154,18 @@
       </div>
       <div class="modal-map" id="modal-map"></div>
       <div class="modal-footer">
+        <button class="modal-like-btn" id="modal-like" aria-label="Like">
+          <span class="like-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="like-sep"></span>
+          <span id="modal-like-count" class="like-count">0</span>
+        </button>
+        <button class="btn btn-secondary btn-icon" id="modal-copy" aria-label="Copy URL">
+          <svg width="13" height="13" viewBox="0 0 12 12" fill="none"><rect x="4" y="4" width="7" height="7" rx="1.5" stroke="currentColor" stroke-width="1.4"/><path d="M8 4V2.5A1.5 1.5 0 0 0 6.5 1H2.5A1.5 1.5 0 0 0 1 2.5v4A1.5 1.5 0 0 0 2.5 8H4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+        </button>
         <a class="btn btn-primary" id="modal-download" href="#" download>
           <svg width="14" height="14" viewBox="0 0 12 12" fill="none"><path d="M6 1v7M3 5.5l3 3 3-3M1 10h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
           Download
         </a>
-        <div class="modal-footer-row">
-          <button class="modal-like-btn" id="modal-like" aria-label="Like">
-            <span class="like-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-            <span class="like-sep"></span>
-            <span id="modal-like-count" class="like-count">0</span>
-          </button>
-          <button class="btn btn-secondary" id="modal-copy">
-            <svg width="13" height="13" viewBox="0 0 12 12" fill="none"><rect x="4" y="4" width="7" height="7" rx="1.5" stroke="currentColor" stroke-width="1.4"/><path d="M8 4V2.5A1.5 1.5 0 0 0 6.5 1H2.5A1.5 1.5 0 0 0 1 2.5v4A1.5 1.5 0 0 0 2.5 8H4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
-            <span id="copy-label">Copy URL</span>
-          </button>
-          <a class="btn btn-secondary btn-accent" id="modal-wiki" href="#" target="_blank" rel="noopener">
-            Wikipedia
-            <svg width="10" height="10" viewBox="0 0 10 10" fill="none"><path d="M2 8L8 2M8 2H4M8 2v4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </a>
-        </div>
       </div>
     </div>
   </div>
