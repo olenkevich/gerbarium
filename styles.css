@@ -899,15 +899,14 @@ body {
 
   /* Hero card: vertical stack */
   .hero-card { grid-column: 1 / -1; flex-direction: column; min-height: auto; }
-  .hero-flag-wrap { flex: 0 0 200px; width: 100%; }
+  .hero-flag-wrap { flex: 0 0 300px; width: 100%; }
   .hero-card-info {
     flex: 0 0 auto;
     width: 100%;
-    padding: var(--space-5) var(--space-6) var(--space-6);
-    background: rgba(0,0,0,0.28);
+    padding: var(--space-7) var(--space-6) var(--space-7);
   }
-  .hero-card-name { font-size: 26px; }
-  .hero-card-sub  { font-size: var(--text-sm); }
+  .hero-card-name { font-size: 34px; }
+  .hero-card-sub  { font-size: var(--text-base); margin-top: var(--space-1); }
 
   /* Modal: full-bleed bottom sheet */
   .modal-backdrop { align-items: flex-end; padding: 0; }
