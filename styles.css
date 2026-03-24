@@ -186,7 +186,7 @@ body {
 
 .nav-title {
   font-family: var(--font-display);
-  font-size: var(--text-logo);
+  font-size: 25px;
   font-weight: var(--weight-semibold);
   color: var(--text);
   letter-spacing: var(--tracking-tight);
@@ -247,6 +247,7 @@ body {
   gap: 5px;
   height: var(--h-btn-sm);
   padding: 0 11px;
+  justify-content: space-between;
   border-radius: var(--btn-radius);
   border: 0.5px solid var(--border);
   background: transparent;
@@ -270,6 +271,9 @@ body {
 }
 .nav-dd-btn.active-filter:hover,
 .nav-dd-btn.active-filter.open { opacity: 0.84; }
+
+#sort-btn   { min-width: 112px; }
+#region-btn { min-width: 128px; }
 
 .nav-dd-chevron {
   flex-shrink: 0;
