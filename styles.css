@@ -640,7 +640,7 @@ body {
 }
 
 .modal-footer .btn-primary { flex: 1; }
-.modal-footer .modal-like-btn { flex: 1; }
+.modal-footer .modal-like-btn { flex: 0 0 auto; }
 
 /* ── BUTTONS ── */
 .btn {
@@ -762,7 +762,7 @@ body {
   position: absolute;
   top: calc(100% + 6px);
   right: 0;
-  width: 260px;
+  width: 280px;
   background: var(--surface-dropdown);
   backdrop-filter: var(--glass-dropdown);
   -webkit-backdrop-filter: var(--glass-dropdown);
@@ -783,9 +783,9 @@ body {
   pointer-events: auto;
 }
 
-.about-name {
+.about-title {
   font-family: var(--font-display);
-  font-size: var(--text-md);
+  font-size: var(--text-base);
   font-weight: var(--weight-bold);
   color: var(--text);
   letter-spacing: var(--tracking-tight);
@@ -804,32 +804,59 @@ body {
   margin: var(--space-3) 0;
 }
 
-.about-link {
+.about-meta {
   display: flex;
-  align-items: center;
-  gap: var(--space-1);
-  font-size: var(--text-sm);
-  font-weight: var(--weight-medium);
-  color: var(--accent);
-  text-decoration: none;
-  padding: var(--space-1) 0;
-  transition: opacity var(--duration-quick);
+  flex-direction: column;
+  gap: var(--space-2);
 }
 
-.about-link:hover { opacity: 0.65; }
+.about-meta-row {
+  display: grid;
+  grid-template-columns: 52px 1fr;
+  gap: var(--space-2);
+  align-items: baseline;
+}
+
+.about-meta-label {
+  font-size: var(--text-2xs);
+  font-weight: var(--weight-semibold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+}
+
+.about-meta-val {
+  font-size: var(--text-sm);
+  color: var(--text-soft);
+  line-height: var(--leading-normal);
+}
+
+.about-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+}
 
 .about-made {
   font-size: var(--text-sm);
   color: var(--text-faint);
-  margin-bottom: var(--space-2);
 }
 .about-made a {
-  color: var(--text-faint);
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  color: var(--text-soft);
+  text-decoration: none;
 }
-.about-made a:hover { color: var(--text-soft); }
-.about-contact { width: 100%; }
+.about-made a:hover { color: var(--text); }
+
+.about-contact {
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  color: var(--accent);
+  text-decoration: none;
+  flex-shrink: 0;
+  transition: opacity var(--duration-quick);
+}
+.about-contact:hover { opacity: 0.7; }
 
 /* ── GRID BREAKPOINTS ── */
 @media (max-width: 1100px) { .grid { grid-template-columns: repeat(3, 1fr); } }
@@ -1063,7 +1090,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 38px;
+  width: 30px;
   flex-shrink: 0;
   color: var(--text-faint);
   transition: color var(--duration-quick);
@@ -1076,12 +1103,12 @@ body {
   flex-shrink: 0;
 }
 .like-count {
-  flex: 1;
+  min-width: 28px;
   text-align: center;
   font-variant-numeric: tabular-nums;
   color: var(--text-soft);
   transition: color var(--duration-quick);
-  padding: 0 2px;
+  padding: 0 6px;
 }
 .modal-like-btn:hover .like-icon,
 .modal-like-btn:hover .like-count { color: var(--text); }
@@ -1129,7 +1156,7 @@ body {
   flex: 0 0 40%;
   background: transparent;
   z-index: 2;
-  padding: var(--space-6) var(--space-7) var(--space-6) var(--space-5);
+  padding: var(--space-7) var(--space-8) var(--space-7) var(--space-7);
   display: flex;
   flex-direction: column;
   justify-content: center;
