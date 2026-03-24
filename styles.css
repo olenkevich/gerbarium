@@ -902,9 +902,10 @@ body {
   .hero-flag-wrap { flex: 0 0 55%; }
   .hero-card-info {
     flex: 0 0 45%;
+    min-width: 0;
     padding: var(--space-5) var(--space-5) var(--space-5) var(--space-4);
   }
-  .hero-card-name { font-size: 22px; }
+  .hero-card-name { font-size: 20px; }
   .hero-card-sub  { font-size: var(--text-xs); }
 
   /* Modal: full-bleed bottom sheet */
