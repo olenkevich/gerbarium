@@ -692,17 +692,23 @@ function destroyHeroFlag() {
 // ── MAP ──
 let mapInstance = null;
 
+const COUNTRY_CODES = {
+  'Russia': 'ru', 'Netherlands': 'nl', 'Poland': 'pl',
+  'Italy': 'it', 'Switzerland': 'ch', 'United States': 'us',
+};
+
 function initMap(name, parent, country) {
   if (mapInstance) { mapInstance.remove(); mapInstance = null; }
 
+  const cc = COUNTRY_CODES[country] ? `&countrycodes=${COUNTRY_CODES[country]}` : '';
   const nominatim = (q) =>
-    fetch(`https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(q)}&format=json&limit=1`, {
+    fetch(`https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(q)}&format=json&limit=1${cc}`, {
       headers: { 'Accept-Language': 'en', 'User-Agent': 'GerbariumApp/1.0' }
     }).then(r => r.json()).then(data => data.length ? data[0] : null);
 
   // Fallback chain: specific → parent city → country
-  nominatim(`${name}, ${parent}, ${country}`)
-    .then(r => r || nominatim(`${parent}, ${country}`))
+  nominatim(`${name}, ${parent}`)
+    .then(r => r || nominatim(parent))
     .then(r => r || nominatim(country))
     .then(result => {
       if (!result) return;
