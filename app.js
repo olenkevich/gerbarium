@@ -1080,3 +1080,14 @@ setupDropdown('region-btn', 'region-dd', item => {
 new IntersectionObserver(entries => {
   if (entries[0].isIntersecting && rendered < filtered.length) renderNext();
 }, { rootMargin: '200px' }).observe(document.getElementById('sentinel'));
+
+// ── LOGO RESET ──
+document.querySelector('.nav-title').addEventListener('click', () => {
+  searchQuery = ''; activeSort = ''; activeRegion = 'all'; activeCity = 'All';
+  document.getElementById('search').value = '';
+  document.getElementById('sort-label').textContent = 'Most liked';
+  document.getElementById('region-label').textContent = 'All regions';
+  document.querySelectorAll('#sort-dd .nav-dd-item').forEach(i => i.classList.toggle('active', i.dataset.sort === ''));
+  document.querySelectorAll('#region-dd .nav-dd-item').forEach(i => i.classList.toggle('active', i.dataset.region === 'all'));
+  applyFilters();
+});
