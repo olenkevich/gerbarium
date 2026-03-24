@@ -869,10 +869,13 @@ function openModal(d) {
   dlBtn.href = d.image_path || d.image_url;
   dlBtn.download = d.name.toLowerCase().replace(/\s+/g, '_') + '.' + (d.image_format || 'png');
   const copyBtn = document.getElementById('modal-copy');
+  const copyIconDefault = copyBtn.innerHTML;
+  const copyIconCheck = '<svg width="13" height="13" viewBox="0 0 12 12" fill="none"><path d="M2 6l3 3 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
   copyBtn.onclick = () => {
     navigator.clipboard.writeText(location.href).then(() => {
       copyBtn.classList.add('success');
-      setTimeout(() => copyBtn.classList.remove('success'), 2000);
+      copyBtn.innerHTML = copyIconCheck;
+      setTimeout(() => { copyBtn.classList.remove('success'); copyBtn.innerHTML = copyIconDefault; }, 2000);
     });
   };
 

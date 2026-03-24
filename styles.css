@@ -640,6 +640,7 @@ body {
 }
 
 .modal-footer .btn-primary { flex: 1; }
+.modal-footer .modal-like-btn { flex: 1; }
 
 /* ── BUTTONS ── */
 .btn {
@@ -689,7 +690,7 @@ body {
 .btn-secondary:hover { background: var(--fill-hover); color: var(--text); }
 .btn-secondary:active { background: var(--fill-press); color: var(--text); transform: scale(0.97); }
 .btn-secondary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-.btn-secondary.success { background: var(--fill-hover); color: var(--text); }
+.btn-secondary.success { background: var(--color-success); color: #fff; border-color: transparent; }
 .modal-footer .btn-secondary { height: var(--h-btn-lg); }
 .btn-accent { color: var(--accent); }
 .btn-accent:hover { color: var(--accent); }
