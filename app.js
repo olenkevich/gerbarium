@@ -59,14 +59,12 @@ function applyFilters() {
     return cityMatch && qMatch && notHero && regionMatch(d);
   });
 
-  if (activeSort === 'popular') {
-    const likes = getLikesData();
-    base = base.slice().sort((a, b) => (likes[b.name] || 0) - (likes[a.name] || 0) || fmtRank(a) - fmtRank(b));
-  } else if (activeSort === 'recent') {
+  if (activeSort === 'recent') {
     const idxMap = new Map(allData.map((d, i) => [d, i]));
     base = base.slice().sort((a, b) => idxMap.get(b) - idxMap.get(a));
   } else {
-    base = base.slice().sort((a, b) => fmtRank(a) - fmtRank(b));
+    const likes = getLikesData();
+    base = base.slice().sort((a, b) => (likes[b.name] || 0) - (likes[a.name] || 0) || fmtRank(a) - fmtRank(b));
   }
 
   filtered = base;
@@ -713,7 +711,7 @@ function initMap(name, parent, country) {
       mapInstance = L.map('modal-map', {
         center: [lat, lon], zoom,
         zoomControl: false, attributionControl: false,
-        scrollWheelZoom: false, dragging: false
+        scrollWheelZoom: true, dragging: true
       });
       const tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
         subdomains: 'abcd', maxZoom: 19

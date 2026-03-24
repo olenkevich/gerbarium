@@ -18,15 +18,22 @@
   <div class="nav-top">
     <span class="nav-title">Gerbarium</span>
 
+    <div class="search-wrap">
+      <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+        <circle cx="6.5" cy="6.5" r="5" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <input id="search" type="search" placeholder="Search…" autocomplete="off" spellcheck="false" aria-label="Search coats of arms">
+    </div>
+
     <div class="nav-dd-wrap" id="sort-wrap">
       <button class="nav-dd-btn" id="sort-btn">
-        <span id="sort-label">Relevance</span>
+        <span id="sort-label">Most liked</span>
         <svg class="nav-dd-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
       <div class="nav-dd" id="sort-dd">
-        <button class="nav-dd-item active" data-sort="" data-btn-label="Relevance">Relevance</button>
-        <button class="nav-dd-item" data-sort="popular" data-btn-label="Popular">Most liked</button>
-        <button class="nav-dd-item" data-sort="recent" data-btn-label="Newest">Newest first</button>
+        <button class="nav-dd-item active" data-sort="" data-btn-label="Most liked">Most liked</button>
+        <button class="nav-dd-item" data-sort="recent" data-btn-label="By date">By date</button>
       </div>
     </div>
 
@@ -43,15 +50,15 @@
       </div>
     </div>
 
-    <div class="search-wrap">
-      <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
-        <circle cx="6.5" cy="6.5" r="5" stroke="currentColor" stroke-width="1.5"/>
-        <path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-      </svg>
-      <input id="search" type="search" placeholder="Search…" autocomplete="off" spellcheck="false" aria-label="Search coats of arms">
-    </div>
     <div class="nav-about-wrap">
-      <button class="nav-about-btn" id="about-btn" aria-label="About">i</button>
+      <button class="nav-about-btn" id="about-btn" aria-label="About">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+          <circle cx="7.5" cy="7.5" r="6.5" stroke="currentColor" stroke-width="1.3"/>
+          <circle cx="7.5" cy="5" r="0.9" fill="currentColor"/>
+          <path d="M7.5 7.5v3.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+        </svg>
+        About
+      </button>
       <div class="nav-about-dropdown" id="about-dropdown">
         <div class="about-desc">A catalog of 1 277 coats of arms of municipalities, regions, and districts worldwide.</div>
         <div class="about-sep"></div>
@@ -71,7 +78,12 @@
 
 <div class="modal-backdrop" id="backdrop">
   <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-name">
-    <!-- Mobile header: more · eyebrow · close -->
+    <button class="modal-close" id="modal-close" aria-label="Close">
+      <svg width="11" height="11" viewBox="0 0 12 12" fill="none">
+        <path d="M1 1L11 11M11 1L1 11" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+      </svg>
+    </button>
+    <!-- Mobile header: more · eyebrow -->
     <div class="modal-mobile-header" id="modal-mobile-header">
       <button class="modal-icon-btn" id="mobile-more" aria-label="More actions">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><circle cx="5" cy="12" r="1.5" fill="currentColor"/><circle cx="12" cy="12" r="1.5" fill="currentColor"/><circle cx="19" cy="12" r="1.5" fill="currentColor"/></svg>
@@ -93,11 +105,6 @@
         </a>
       </div>
       <div class="modal-mobile-eyebrow" id="mobile-eyebrow"></div>
-      <button class="modal-close" id="modal-close" aria-label="Close">
-        <svg width="11" height="11" viewBox="0 0 12 12" fill="none">
-          <path d="M1 1L11 11M11 1L1 11" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
-        </svg>
-      </button>
     </div>
     <div class="modal-left">
       <div class="modal-tabs">
